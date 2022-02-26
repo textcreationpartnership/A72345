@@ -1,0 +1,2231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Batrachomyomachia: or: The wonderfull and bloudy battell betweene frogs and mice The occasion of their falling out: their preparation, munition, and resolution for the warres: the severall combats of every person of worth, with many other memorable accidents. Interlaced with divers pithy and morall sentences, no lesse pleasant to be read, then profitable to be observed. Paraphrastically done into English heroycall verse, by William Fowldes, late one of the cursitors of his Majesties high Court of Chancery.</title>
+            <title>Battle of the frogs and mice. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72345</idno>
+            <idno type="STC">STC 13627</idno>
+            <idno type="STC">ESTC S122590</idno>
+            <idno type="EEBO-CITATION">99900304</idno>
+            <idno type="PROQUEST">99900304</idno>
+            <idno type="VID">150968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150968)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1991:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Batrachomyomachia: or: The wonderfull and bloudy battell betweene frogs and mice The occasion of their falling out: their preparation, munition, and resolution for the warres: the severall combats of every person of worth, with many other memorable accidents. Interlaced with divers pithy and morall sentences, no lesse pleasant to be read, then profitable to be observed. Paraphrastically done into English heroycall verse, by William Fowldes, late one of the cursitors of his Majesties high Court of Chancery.</title>
+                  <title>Battle of the frogs and mice. English.</title>
+                  <author>Fowldes, William.</author>
+                  <author>Homer, attributed name.</author>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T[homas]. H[arper]. for Lawrence Chapman, and are to be sold at his shop in Holborne, at Chancery Lane end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1634.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed in antiquity to Homer, but probably of a much later date.</note>
+                  <note>In verse.</note>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A⁶ B-D E² .</note>
+                  <note>Reproduction of original in the British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  Early works to 1800.</term>
+               <term>War --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150968:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150968:2"/>
+            <pb facs="tcp:150968:2" rendition="simple:additions"/>
+            <p>Βατραχομυομαχία: <hi>OR:</hi> THE WONDERFVLL and bloudy Battell betweene <hi>Frogs</hi> and <hi>Mice.</hi>
+            </p>
+            <p>The occaſion of their falling out: Their Preparation, Munition, and reſolution for the warres: The ſeverall combats of every perſon of worth, with many other memorable accidents.</p>
+            <p>Interlaced with divers pithy and morall ſenten<g ref="char:EOLhyphen"/>ces, no leſſe pleaſant to be read, then profitable <hi>to be obſerved.</hi>
+            </p>
+            <p>Paraphraſtically done into Engliſh Heroycall verſe, by <hi>William Fowldes,</hi> late one of the Curſi<g ref="char:EOLhyphen"/>tors of his Majeſties high Court of <hi>Chancery.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. H.</hi> for <hi>Lawrence Chapman,</hi> and are to be ſold at his ſhop in <hi>Holborne,</hi> at Chancery Lane end, 1634.</p>
+         </div>
+         <div type="epigram">
+            <pb facs="tcp:150968:3"/>
+            <q>
+               <l>Perlege Maeonio cantatas carmine Ranas,</l>
+               <l>Et frontem nugis ſolvere diſce meis.</l>
+               <bibl>
+                  <hi>Martialis in Xenia, 183.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150968:3"/>
+            <head>To the vertuous, courteous, and worſhipfull Gentle<g ref="char:EOLhyphen"/>man, Maſter <hi>Robert Greenwood</hi> of <hi>Weſterton,</hi> health, with the happineſſe of both worlds.</head>
+            <lg>
+               <l>SVch loving favours from your ſonne I found,</l>
+               <l>So kinde affection at your Worſhips hand,</l>
+               <l>Though undeſerved, that I ſtill am bound,</l>
+               <l>And unto you and yours obliged ſtand:</l>
+            </lg>
+            <lg>
+               <l>And though that <hi>green</hi> branch, which ay-ſpringing ſtood,</l>
+               <l>As chiefeſt crowne or garland to your <hi>wood,</hi>
+               </l>
+               <l>Be by the ſtroke of Fate quite cut away,</l>
+               <l>Ne're ſhall a thankleſſe nature in me ſway.</l>
+            </lg>
+            <lg>
+               <l>No lofty Cedar, though in height he paſſe</l>
+               <l>Each ſev'rall plant which deſert forreſts yeeld;</l>
+               <l>No Laurell, though <hi>Apollo's</hi> tree it was;</l>
+               <l>No Pine for ſhippes, no Oke ordayn'd to build,</l>
+               <l>Nor any ſhrub was halfe ſo deare to me,</l>
+               <l>As was that branch falne from the <hi>Greenwoods</hi> tree:</l>
+               <l>Which though, as dead, entomb'd in earth it lyes,</l>
+               <l>A day will come, we hope to ſee it riſe.</l>
+            </lg>
+            <lg>
+               <l>Here (worthy Sir) doe I preſent to you</l>
+               <l>The timely Buds of my froſt-bitten Spring,</l>
+               <l>And though this trifle not deſerve your view,</l>
+               <l>Yet ſuch a trifle once did <hi>Homer</hi> ſing,</l>
+               <l>Adorn'd with robes, ſpun from the wooll of Greece,</l>
+               <l>Homely by me now clad in <hi>Engliſh</hi> fleece:</l>
+               <l>Albeit no pleaſure in this toy you take,</l>
+               <l>Yet deigne a kinde aſpect for <hi>Hargreves</hi> ſake,</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>The unworthy wel-willer of your Worſhips welfare,</hi> WILLIAM FOVVLDES.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150968:4"/>
+            <head>To the Reader in generall.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving of late, for mine owne exerciſe at vacant houres, conſummated the tranſlati<g ref="char:EOLhyphen"/>on of this little Booke, I now boldly adven<g ref="char:EOLhyphen"/>ture to commit it to the Preſſe, being the rather induced thereunto by the incourage<g ref="char:EOLhyphen"/>ment of certaine of mine acquaintance: not that I ſeeke hereby to winne praiſe, or publiſh this for any devotion in print, ſince I am verily perſwaded, it deſerves not the leaſt title of commendation: and I hold it as a maxime with <hi>Lylie,</hi> that he which commeth in print, becauſe he would be known, is like the foole that goeth into the market, becauſe he would be ſeene. Onely I hope, that this my ſimple labour will be a ſpurre to the riper wits of our time, that the golden workes of this &amp; other famous Poets, may not ſtill lye hidden, as under a vaile or my<g ref="char:EOLhyphen"/>ſterie, from the weake capacitie of meaner judgements. Concerning my tranſlation, as I cannot altogether com<g ref="char:EOLhyphen"/>mend it: for <hi>quandoque bonus dormitat Homerus:</hi> ſo neither will I wholly diſcommend it; in the one I might ſeeme arrogant; in the other be accounted fooliſh: and therfore <hi>puto rectius eſſe, ut ſint mediocria omnia.</hi>
+               <pb facs="tcp:150968:4"/>
+If one write never ſo well, he ſhall not pleaſe all; if ne<g ref="char:EOLhyphen"/>ver ſo ill, he ſhall pleaſe ſome: a dog will barke, though he lacke his teeth; and a dolt will cenſure, though hee want judgement. I know to ſome curious heads it will be thought amiſſe, that every verſe anſwers not their ex<g ref="char:EOLhyphen"/>pectation, becauſe J have not word for word concurd with the Author in my tranſlation: yet if they will but looke a little into the difficulty of this thing, conſidering the kinde of verſe which J have uſed, I hope they will reſt ſatisfied. I onely will anſwer them out of <hi>Hor. Non verbum verbo curabis reddere, fidus interpres.</hi> And furthermore (beſides the diverſitie betweene a conſtru<g ref="char:EOLhyphen"/>ction and a tranſlation) they may know, that there are many myſteries in this writer, which uttered in Engliſh, would ſhew little pleaſure, and in mine opinion, are bet<g ref="char:EOLhyphen"/>ter to be untouched, then to diminiſh the grace of the reſt with tediouſneſſe and obſcuritie: J have therefore fol<g ref="char:EOLhyphen"/>lowed the counſell of the aforeſaid <hi>Horace,</hi> teaching the duty of a good Jnterpreter, <hi>qui, quae deſperat tractata niteſcere poſſe, relinquit.</hi> By which occaſion, ſome few ſentences I have in places omitted, ſomewhat added, ſomewhat altered, and ſomewhat expounded: that which J have added, you ſhall finde noted with this marke * The ſignifications of the names (being indeed no names, but onely words correſpondent to the nature of <hi>Frogs</hi> and <hi>Mice) ne quis in ijs haereat,</hi> leſt any ſhould there<g ref="char:EOLhyphen"/>with be troubled, I have engliſhed and inſerted them in the verſe, that the inferiour Readers ſhould not bee
+<pb facs="tcp:150968:5"/>
+wearied with looking in the margent: as for the learned, they need not be inſtructed. I meane not to be a prejudice to any that can doe finer; onely J would deſire them to be are with this my ſimple labour, and to accept it as a thing roughly begun, rather then poliſhed. And if any with this will not be contented, let him take in hand, and doe it anew himſelfe, and I doubt not, but he ſhall finde it an eaſier thing to controll a line or two, then to amend the whole of this interpretation. Farewell.</p>
+            <closer>
+               <signed>W. F.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:150968:5" rendition="simple:additions"/>
+            <head>In commendation of Poetry.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>Mong the divers currents that do flow</l>
+               <l>Fro<g ref="char:cmbAbbrStroke">̄</g> th'euer ſpringing fountain of al art,</l>
+               <l>The perled Nectar moſt co<g ref="char:cmbAbbrStroke">̄</g>tent doth ſhow</l>
+               <l>Which Poetry full ſweetly doth impart,</l>
+               <l>Whoſe hony'd vapour comforteth the heart,</l>
+               <l>And under vailed fancies that doth ſing,</l>
+               <l>Which doth much profit with great pleaſure bring</l>
+            </lg>
+            <lg>
+               <l>For certs the truth (though truth no colours need</l>
+               <l>To men of underſtanding and ripe yeeres)</l>
+               <l>When ſhe is masked in a ſeemely weed,</l>
+               <l>More faire, more ſweet, and beautifull appeares,</l>
+               <l>Her tale contents the mind, and glads the eares</l>
+               <l>And makes men more attentive to her ſtory,</l>
+               <l>That truth may ſtill prevaile with greater glory.</l>
+            </lg>
+            <lg>
+               <l>For as an Image drawne in white and blacke,</l>
+               <l>Though it be well proportioned with care,</l>
+               <l>If it doe other comely colours lacke,</l>
+               <l>To beautifie the members, head, and haire,</l>
+               <l>Vnto the eye appeares not halfe ſo faire;</l>
+               <l>Nor with ſo much content doth fill the minde,</l>
+               <l>As that portrayd with colours in his kinde:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:6"/>
+               <l>Ev'n ſo a naked ſtory ſimply told,</l>
+               <l>Though cauſe be true and worthy due regard,</l>
+               <l>Doth not mens hearts with ſuch affection hold,</l>
+               <l>Nor hath the outward ſences ſo in gard,</l>
+               <l>As doth that matter which is well declard,</l>
+               <l>Adorned pleaſantly with tearmes and art,</l>
+               <l>Which piercing th'row the eares, doth move the heart.</l>
+            </lg>
+            <lg>
+               <l>This knew the learned Poets all of yore,</l>
+               <l>This knew th'immortall Sages long agone,</l>
+               <l>Whoſe workes the wiſeſt of our age adore,</l>
+               <l>Such ſtore of wiſedome in their bookes is ſhone,</l>
+               <l>Such pleaſure unto all, offence to none,</l>
+               <l>Such grave precepts hid under fine device,</l>
+               <l>As eares and heart with wonderment ſurpriſe.</l>
+            </lg>
+            <lg>
+               <l>No fable ſweet <hi>Philoſophy</hi> containes,</l>
+               <l>Within the ſacred volumes of her cell,</l>
+               <l>Dipt in the fount, which from <note n="*">
+                     <hi>A hill conſecrate to the Muſes.</hi>
+                  </note> 
+                  <hi>Pernaſſus</hi> ſtrains,</l>
+               <l>Whereas the thrice three <hi>Nymphs</hi> are ſaid to dwel,</l>
+               <l>That barbariſme and ignorance expell:</l>
+               <l>But under vaile deepe ſecrets doth unfold,</l>
+               <l>Though but a tale by wanton <hi>Ovid</hi> told.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:6"/>
+               <l>By wanton <hi>Ovid?</hi> heavenly Poeſie,</l>
+               <l>Parden the raſhneſſe of my infant Muſe,</l>
+               <l>That I, a client to thy myſterie,</l>
+               <l>Should unadviſedly by that word abuſe,</l>
+               <l>And terme him wanton, did no folly uſe:</l>
+               <l>For though his Muſe was wanton, as he playned,</l>
+               <l>Yet <hi>Ovids</hi> life was chaſte, and never ſtayned.</l>
+            </lg>
+            <lg>
+               <l>Nor ſung he alwayes in a wanton lay,</l>
+               <l>And penned pleaſing ditties of blinde fire:</l>
+               <l>Of deeper matters much could <hi>Ovid</hi> ſay,</l>
+               <l>As he whoſe ſoaring ſpirit mounted higher,</l>
+               <l>Than ever Poet after could aſpire.</l>
+               <l>And ſave the famous <hi>Homer</hi> chiefe of all,</l>
+               <l>
+                  <note n="*">
+                     <hi>Semper Virgilium excipio.</hi>
+                  </note> The Prince of Poets may we <hi>Ovid</hi> call.</l>
+            </lg>
+            <lg>
+               <l>But neither <hi>Homer, Ovid,</hi> nor the reſt,</l>
+               <l>That ever taſted <note n="*">
+                     <hi>A fountaine of the Muſes.</hi>
+                  </note> 
+                  <hi>Aganippes</hi> ſpring,</l>
+               <l>Though but to write of fables they addreſt,</l>
+               <l>Which to th'unskilfull no contentment bring,</l>
+               <l>But with ſuch arte and knowledge did them ſing,</l>
+               <l>That in their volumes ſcarce appeares one line,</l>
+               <l>Which to the learned doth not ſeeme divine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:7"/>
+               <l>No vice of youth, no villany of age,</l>
+               <l>No lewd behaviour of each degree,</l>
+               <l>But in the ſecret myſt'ries of the ſage</l>
+               <l>And grave inſtructions of philoſophy,</l>
+               <l>Clad in the habit of ſweet Poeſie,</l>
+               <l>Is aptly couched in ſome pretty fable,</l>
+               <l>As well the learned to diſcuſſe are able.</l>
+            </lg>
+            <lg>
+               <l>And not alone are vices ſet to view,</l>
+               <l>And horrid plagues attending wickedneſſe:</l>
+               <l>But bleſſed vertue with the heavenly crew,</l>
+               <l>Which ever wayt upon her worthineſſe,</l>
+               <l>By them are portrayed forth with comelineſſe:</l>
+               <l>The meaneſt fable Poet e're did make,</l>
+               <l>May ſtand as mirrour for example ſake.</l>
+            </lg>
+            <lg>
+               <l>For proofe whereof, read but this little booke</l>
+               <l>With underſtanding, knowledge, care and skill,</l>
+               <l>And thou ſhalt finde preſented to thy looke,</l>
+               <l>Such wit and learning from the Authors quill,</l>
+               <l>Which under fine inventions meet thee ſtill;</l>
+               <l>So pleaſant obiects that occurre thine <note n="*">
+                     <hi>The eyes of thy minde.</hi>
+                  </note> eyes,</l>
+               <l>As will thy ſoule with wonderment ſurpriſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:7"/>
+               <l>And not alone ſhall pleaſure thee awayte,</l>
+               <l>As thou peruſeſt what I now preſent;</l>
+               <l>Here thou ſhalt have fit matter for each ſtate,</l>
+               <l>If thou conſider what hereby is ment.</l>
+               <l>Then thinke thy time herein not idly ſpent.</l>
+               <l>Ponder with iudgement what thou read'ſt at leyſure,</l>
+               <l>So may thy profit equalize thy pleaſure.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:150968:8"/>
+            <pb facs="tcp:150968:8"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: OR, The Battell betweene Frogs and Mice.</head>
+            <lg>
+               <l>YE thrice three daughters of immortal <hi>Iove,</hi>
+               </l>
+               <l>
+                  <hi>Boeotian</hi> nymphs of <hi>Helicons</hi> ſweet ſpring,</l>
+               <l>Bright lamps of honor ſhining from above,</l>
+               <l>Where ſtil ye ſit ſecure from envies ſting,</l>
+               <l>Guiding the ſterne of learnings ſacred lore,</l>
+               <l>Vouchſafe to guide my pen, I you implore;</l>
+               <l>Your ſweet conſent conform my tender breſt,</l>
+               <l>While I adorne my verſe, as likes you beſt.</l>
+            </lg>
+            <lg>
+               <l>Deigne from your pleaſant fountains of delight,</l>
+               <l>And ever-running Rivers of true skill,</l>
+               <l>Now to infuſe ſweet drops into my ſpright,</l>
+               <l>And heav'nly <hi>Nectar</hi> on my plants diſtill:</l>
+               <l>That they may grow like Bay, which ever ſprings,</l>
+               <l>To bud the battels of two mighty Kings,</l>
+               <l>And all the world may know how ſtrife did riſe,</l>
+               <l>Betweene renowned <hi>Frogs</hi> and gallant <hi>Miſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The antique deeds which wanton <hi>Ovid</hi> told,</l>
+               <l>To be perform'd by Gyants long agone,</l>
+               <l>When mighty hils together they inrold,</l>
+               <l>Thinking to pull the Thundrer from his throne,</l>
+               <l>Compared to theſe battels cannot be,</l>
+               <l>"No more then brambles to the Caedar tree,</l>
+               <l>"Whoſe lofty top dare check the heav'ns faire eye,</l>
+               <l>"When at midday he ſits in majeſtie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:9"/>
+               <l>In theſe approved ſouldiers of ſtern <hi>Mars,</hi>
+               </l>
+               <l>Manhood, or <hi>Mars</hi> himſelfe, may ſeeme to dwell:</l>
+               <l>For with ſuch valour they endur'd the warres,</l>
+               <l>That horrid death their courage could not quell.</l>
+               <l>Stout reſolution in their foreheads ſtood,</l>
+               <l>Fighting like valiant hearts amid their blood.</l>
+               <l>And this, alas, did cauſe the mortall ſtrife,</l>
+               <l>Whereby ſo many gallants loſt their life.</l>
+            </lg>
+            <lg>
+               <l>The Kings owne ſonne, a <hi>Mouce</hi> of royall ſtate,</l>
+               <l>Next heire by birth apparent to the Crowne,</l>
+               <l>Toyled with travell, flying from the <hi>Cat,</hi>
+               </l>
+               <l>Vnto a pleaſant brooke to drinke came downe,</l>
+               <l>Where couching low his body on the bank,</l>
+               <l>With great delight, cold water there he dranke.</l>
+               <l>"For though that gorged ſtomacks lothe ſtrong drinke,</l>
+               <l>"Thirſt makes the King cold water wine to thinke.</l>
+            </lg>
+            <lg>
+               <l>But while the gentle and debonayre <hi>Mouce,</hi>
+               </l>
+               <l>Bathed his lips within the chanell cleare,</l>
+               <l>Quaffing moſt neatly many a ſweet carouſe,</l>
+               <l>Along the gliding current did appeare</l>
+               <l>
+                  <note n="*">
+                     <hi>This was the King of Frogs.</hi>
+                  </note> A gallant <hi>Frog,</hi> whoſe port and mounting pace,</l>
+               <l>Show'd him to be chiefe ruler in that place.</l>
+               <l>"For as quicke ſparkes diſcloſe the fire to be,</l>
+               <l>So doth mans geſture ſhow his majeſtie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:9"/>
+               <l>From forth the river, like to liquid glaſſe,</l>
+               <l>The <hi>Frog</hi> aſcends upon the waters brim,</l>
+               <l>And ſeeing where the <hi>Mouce</hi> lay on the graſſe,</l>
+               <l>With nimble joynts he leapeth towards him;</l>
+               <l>And bending downe his fayre and yellow breſt,</l>
+               <l>With kinde ſalutes he welcomes this new gueſt,</l>
+               <l>Beſeeming well a Kings high dignitie:</l>
+               <l>And thus he ſpoke with ſolemne majeſty:</l>
+            </lg>
+            <lg>
+               <l>Since that thou art a ſtranger, gentle <hi>Mouſe,</hi>
+               </l>
+               <l>From whom doſt thou derive thy pedigree?</l>
+               <l>Declare to me thy parents and the houſe,</l>
+               <l>Which have conceived ſuch a progenie,</l>
+               <l>That, if thy worth deſerve, with greater ſway,</l>
+               <l>Vnto my pallace thee I might convay:</l>
+               <l>Where I with kingly preſents will thee grace,</l>
+               <l>As ſhall befit thy vertues, and my place.</l>
+            </lg>
+            <lg>
+               <l>And doubt not but we can confirme our word:</l>
+               <l>For know it's ſpoken by a mighty King,</l>
+               <l>The onely Monarch of this running ford,</l>
+               <l>Which all the <hi>Frogs</hi> to my ſubjection bring.</l>
+               <l>My promiſe to performe, I want no ſtore,</l>
+               <l>My kingdome ſtretcheth out from ſhore to ſhore.</l>
+               <l>"Scarce he deſerves the title of a king,</l>
+               <l>"That wanteth meanes t'accompliſh any thing.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:10"/>
+               <l>By birth I am a King, borne to the Crowne,</l>
+               <l>And hold by right my ruſhie chayre of ſtate,</l>
+               <l>
+                  <hi>Peleus</hi> my <hi>durty</hi> Sire, great in renowne,</l>
+               <l>Of <hi>Queene Hydromeduſa</hi> me begate.</l>
+               <l>She at the floud of <hi>Padus</hi> did me beare,</l>
+               <l>Whoſe head and cheeks did put her in great feare.</l>
+               <l>And that my name and perſon might agree,</l>
+               <l>
+                  <hi>Blowne-cheekt Phyſignathus</hi> ſhe cleaped mee.</l>
+            </lg>
+            <lg>
+               <l>But ſince that valour in thy lookes doth dwell,</l>
+               <l>And <hi>Mars</hi> hath his abiding in thy face:</l>
+               <l>I thinke thy birth doth common <hi>Mice</hi> excell,</l>
+               <l>And thee deſcended from a higher place.</l>
+               <l>"For majeſtie attends upon eſtate,</l>
+               <l>"It cannot masked be, nor change his gate.</l>
+               <l>Thy Lordly lookes, thy royall birth proclaime;</l>
+               <l>Tell me thy country, kindred, and thy name.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Mouce</hi> ariſing from the rivers brim,</l>
+               <l>Hearing the <hi>Frog</hi> ſpeake with ſuch Majeſtie,</l>
+               <l>With haughtie courage reſaluteth him,</l>
+               <l>And thus replies with great audacitie:</l>
+               <l>
+                  <note n="*">
+                     <hi>A bold anſwer to a King.</hi>
+                  </note> Wherefore deſireſt thou to know our birth,</l>
+               <l>Famous to gods above, and men on earth?</l>
+               <l>"The greateſt <hi>Keſar,</hi> and the country ſwaine,</l>
+               <l>"Of our exployts and ſtratagems complaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:10"/>
+               <l>I am the Prince <note n="*">
+                     <hi>Prince Eate crumme.</hi>
+                  </note> 
+                  <hi>Pſicharpax,</hi> which in field</l>
+               <l>
+                  <hi>Dare meet a thouſand crummes within the face,</hi>
+               </l>
+               <l>
+                  <hi>All them encounter without ſpeare or ſhield,</hi>
+               </l>
+               <l>
+                  <hi>And bravely eate them up in little ſpace,</hi>
+               </l>
+               <l>Borne of <hi>Troxarta</hi> that redoubted king,</l>
+               <l>Of whoſe heroick acts the world doth ring;</l>
+               <l>Both rich and poore my valiant father dread,</l>
+               <l>
+                  <hi>With ſo great courage he devoures their bread.</hi>
+               </l>
+               <l>* <hi>King Eate bread.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lick-meale Lichomile,</hi> a royall <hi>Mouce,</hi>
+               </l>
+               <l>My faire Queene-mother me conceiv'd hereby,</l>
+               <l>Vnder a pile of wood, behind a houſe:</l>
+               <l>(For at the preſent there the <note n="*">
+                     <hi>The Court then lay at Woodſtacke.</hi>
+                  </note> Court did lye)</l>
+               <l>Where like the childe of <hi>Iove,</hi> within her lap,</l>
+               <l>I ſuckt ſweet <hi>Nectar</hi> from her downe-ſoft pap,</l>
+               <l>Neatly ſhe fed me in my yonger yeares</l>
+               <l>With milk, cheeſ-curds, nuts, apples, figs &amp; peares.</l>
+            </lg>
+            <lg>
+               <l>In vaine you wiſh our honour ſhould deſcend</l>
+               <l>(Becauſe our birth is of no ſmall regard)</l>
+               <l>To taſte the pleaſures that your palace lend,</l>
+               <l>With ſtore of juncats and delights prepar'd:</l>
+               <l>"For they whoſe lives and natures diſagree,</l>
+               <l>"Do hardly brooke to joyne in companie:</l>
+               <l>"Like will to like, thoſe birds conſort together,</l>
+               <l>"Whoſe wings are like in colour, and of feather.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:11"/>
+               <l>You ſimple <hi>Frogs</hi> live in the running mayne,</l>
+               <l>In brookes, in ditches, and the watry Fen.</l>
+               <l>Vpon the dry land we brave <hi>Mice</hi> remaine,</l>
+               <l>Where we enjoy the company of men:</l>
+               <l>We feed upon their dainties at our eaſe,</l>
+               <l>Eate up their bread and victuals when we pleaſe;</l>
+               <l>We paſſe not for their locks, nor ſtrength of place,</l>
+               <l>"Both locks and ſtrength doth policie deface.</l>
+            </lg>
+            <lg>
+               <l>Yet though when hunger moves an appetite,</l>
+               <l>We ſometimes skirmiſh with the Kitchins ſtore,</l>
+               <l>And here and there a little morſell bite,</l>
+               <l>And where we finde it fatter, eate the more:</l>
+               <l>For I have heard my father <note n="*">
+                     <hi>A good Axiome.</hi>
+                  </note> ſay of old,</l>
+               <l>Which as a <hi>maxime</hi> we <hi>Mice</hi> doe hold,</l>
+               <l>Fetter the better (ſure 'tis worth repeating)</l>
+               <l>
+                  <hi>A fat ſweet modicum deſerves the eating.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And though ſometimes (too ſeldome I confeſſe)</l>
+               <l>We light upon a <hi>Capon</hi> by the way,</l>
+               <l>Or fortune with a <hi>Rabbit</hi> doth us bleſſe,</l>
+               <l>Which is a dainty morſell at this day;</l>
+               <l>Or other pretty juncate which we finde,</l>
+               <l>And eate ſome part according to our kinde:</l>
+               <l>Yet are we not ſo greedy, as ſome ſay,</l>
+               <l>Which blame brave <hi>Mice,</hi> yet take the meat away.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:11"/>
+               <l>For oft the greedy all-devouring <hi>Cat,</hi>
+               </l>
+               <l>Which would be thought a ſafegard to the meat,</l>
+               <l>Doth under colour of her inward hate,</l>
+               <l>That aye between us two is wondrous great,</l>
+               <l>Forrage the cupbords, kitchin, and the houſe,</l>
+               <l>Pretending hatred to the harmeleſſe <hi>Mouce:</hi>
+               </l>
+               <l>But cert's let all beware of this device,</l>
+               <l>"One greedy <note n="*">
+                     <hi>Too many of theſe Cats.</hi>
+                  </note> 
+                  <hi>Cat</hi> is worſe then many <hi>Mice.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oft, when a <hi>Pigeon,</hi> or ſome dainty bit,</l>
+               <l>Chiefly for maſter or the miſtris dreſt;</l>
+               <l>If any parcell be reſerv'd of it,</l>
+               <l>To cloſe their ſtomacke at another feaſt,</l>
+               <l>No ſooner comes the morſell from the hall,</l>
+               <l>But ſervants take a part, or eate it all;</l>
+               <l>And when enquiry for this thing is made,</l>
+               <l>Still on the guiltleſſe <hi>Mouce</hi> the fault is layd.</l>
+            </lg>
+            <lg>
+               <l>Surely I grant, it grieves me to the heart,</l>
+               <l>To beare theſe ſlanders and inceſſant wrong,</l>
+               <l>Which ſtill they lay unto the <hi>Mouces</hi> part,</l>
+               <l>By their falſe lying and deceitfull tongue,</l>
+               <l>But in my ſprite I ſcorne the vaine ſurmiſes</l>
+               <l>Which ev'ry cogging mate by craft deviſes;</l>
+               <l>Yet ſmile to ſee the miſtris of the houſe,</l>
+               <l>Vpon her ſervants ſhoulders beat the <hi>Mouce.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:12"/>
+               <l>Nethleſſe they cannot ſay but we will take</l>
+               <l>A dire revenge upon them for the lie;</l>
+               <l>And ſince no conſcience in a lye they make,</l>
+               <l>Their lye ſhall prove a truth, or we will dye:</l>
+               <l>For not a hole or corner ſhall be free,</l>
+               <l>Where any ſcraps or broken meat we ſee;</l>
+               <l>But whatſoe're we finde, without delay</l>
+               <l>Weele quickly eate it up, or beare away.</l>
+            </lg>
+            <lg>
+               <l>And yet thinke not (Sir <hi>Frog</hi>) we gallants live</l>
+               <l>Vpon the refuſe ſcraps or broken meat;</l>
+               <l>Or feed on fragments which foule trenchers give,</l>
+               <l>When greazy ſcullions make them cleane and neat,</l>
+               <l>Farre be it from a lordly <hi>Mouces</hi> tooth,</l>
+               <l>To taſte the traſh that ev'ry Peſant doth;</l>
+               <l>Well knowes a diſcreet <hi>Mouce</hi> to chooſe the beſt,</l>
+               <l>Though he for anger often eate the reſt.</l>
+            </lg>
+            <lg>
+               <l>Nor are we ſo faint-hearted, if we chance</l>
+               <l>To meet a Pye or Paſtie by the way,</l>
+               <l>Which like a Caſtle doth her ſelfe advance,</l>
+               <l>Scorning the battrie of our brave array;</l>
+               <l>But ſtreight couragiouſly her wals we ſcale,</l>
+               <l>Or undermine them for to make her quaile:</l>
+               <l>If valour will not bring our wiſh to paſſe,</l>
+               <l>Our teeth ſhall pierce her cruſt as hard as braſſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:12"/>
+               <l>Sweet cakes, fat puddings, curds, creame, are our meate,</l>
+               <l>With bacon-flitches hanging in the houſe,</l>
+               <l>Delicious hony-ſops which gods doe eate,</l>
+               <l>Are victuals onely for the gallant <hi>Mouce.</hi>
+               </l>
+               <l>No pleaſant juncates, no tooth-tempting fare,</l>
+               <l>Which huſwives locke up with no ſlender care,</l>
+               <l>
+                  <note n="*">
+                     <hi>Yet oft more bold then welcome.</hi>
+                  </note> Yea, no delights the kitchen doth containe,</l>
+               <l>But in the danger of our teeth remaine.</l>
+            </lg>
+            <lg>
+               <l>Pale feare of death could never make me flye,</l>
+               <l>Nor ſafegard of my life to leave the fight.</l>
+               <l>"True valour will with honour rather dye,</l>
+               <l>"Then like a coward live and take his flight.</l>
+               <l>But like a Souldier ſtout, and Captaine bold,</l>
+               <l>Still in the for moſt ranke my place I hold,</l>
+               <l>Where I enact ſuch wonders with my blade,</l>
+               <l>That troupes I ſend to death and dusky ſhade.</l>
+               <l>* <hi>Et coelum territat armis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The might of bourly man I doe not dread,</l>
+               <l>Though other creatures live within his feare:</l>
+               <l>Oft dare I bite his hand, and ſcratch his head,</l>
+               <l>When he the ſilent night in ſleepe doth weare.</l>
+               <l>
+                  <note n="*">
+                     <hi>Caſibus inſultas quos potes ipſe pati.</hi>
+                  </note> Iſcorne his gins and his alluring bayt,</l>
+               <l>Set to intrap us cloſely by deceit:</l>
+               <l>Yet if therein the baſeſt <hi>Mouſe</hi> doe fall,</l>
+               <l>In our revenge his meate ſhall pay for all.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:13"/>
+               <l>Onely the <hi>Owle</hi> I dread, and eye-bright <hi>Cat,</hi>
+               </l>
+               <l>Two curſed murdrers in the diſmall night,</l>
+               <l>Whoſe monſtrous jawes ſpare neither <hi>Mouce</hi> nor <hi>Rat,</hi>
+               </l>
+               <l>But quicke devoure us without law or right:</l>
+               <l>Yet chiefly of the <hi>Cat</hi> I ſtand in feare,</l>
+               <l>Whoſe puling voyce I never love to heare;</l>
+               <l>A hel-bred <hi>Harpie,</hi> ranging round about,</l>
+               <l>Watching our comming in and going out.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>Satietas nauſeam parit.</hi>
+                  </note> I tell thee <hi>Frog,</hi> I lothe to live on weeds,</l>
+               <l>Roots, coleworts, garlicke, or the fooliſh beet,</l>
+               <l>Or ſtinking muſhroms, growing with the reedes:</l>
+               <l>Such vulgar diet for baſe <hi>Frogs</hi> is meet:</l>
+               <l>Meat fit for <hi>Frogs</hi> which haunt the watry Fen,</l>
+               <l>Not for the gallant <hi>Mouce</hi> that feeds with men.</l>
+               <l>And here abruptly ending in diſdaine,</l>
+               <l>Thus ſmilingly the <hi>Frog</hi> replyde againe:</l>
+            </lg>
+            <lg>
+               <l>Stoutly thou brag'ſt upon thy coſtly cheare,</l>
+               <l>Thy dainty diſhes and thy kingly fare;</l>
+               <l>Much honour to thy belly thou doſt beare,</l>
+               <l>Vaunting what pleaſures fall unto thy ſhare,</l>
+               <l>And what a warlike heart in thee doth dwell,</l>
+               <l>Which pale-fac'd feare of death could never quell:</l>
+               <l>"But reaſon ſhewes by daily practiſe found,</l>
+               <l>"That empty veſſels yeeld the greateſt ſound.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:13"/>
+               <l>And yet ſeeme not to ſcorne our ruſhy chayre,</l>
+               <l>Becauſe your belly-pleaſures doe abound:</l>
+               <l>With our delights no ſolace may compare,</l>
+               <l>That can among poore ſtarved <hi>Mice</hi> be found.</l>
+               <l>Vpon the land we dance and ſport our ſill,</l>
+               <l>In water bathe our limmes (ſo <hi>Jove</hi> doth will)</l>
+               <l>
+                  <note n="*">
+                     <hi>Nulla aconita bibuntur fictilibus.</hi>
+                  </note> Our cates are conſonant unto our ſtate,</l>
+               <l>Not mixt with poyſon or deceitfull bayt.</l>
+            </lg>
+            <lg>
+               <l>And if the knowledge of the truth did move,</l>
+               <l>Or breed in thee a liking and delight,</l>
+               <l>Like to the radiant ſonne of mighty <hi>Jove,</hi>
+               </l>
+               <l>When riding in his Carre he gives us light,</l>
+               <l>I to my palace will thee ſafely bring,</l>
+               <l>Sitting upon the ſhoulders of a king:</l>
+               <l>
+                  <note n="*">
+                     <hi>Credito, credenti nulla procella nocet.</hi>
+                  </note> Leape on my neck, feare not the running maine,</l>
+               <l>I beare thee hence, I bring thee backe againe.</l>
+            </lg>
+            <lg>
+               <l>He had no ſooner ſaid, but bending downe</l>
+               <l>His back; "though rare it is to ſee Kings bow;</l>
+               <l>The lieger <hi>Mouce,</hi> lighter then thiſtle downe,</l>
+               <l>And ſwift as winde, which from the Eaſt doth blow,</l>
+               <l>Vpon his ſhoulders nimbly leaps in haſt,</l>
+               <l>And vaulting to his neck, doth there hold faſt,</l>
+               <l>Proud of his ſtately Porter, as he might:</l>
+               <l>"For whom Kings beare, they may be proud by right.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:14"/>
+               <l>Boldly the <hi>Frog</hi> doth launch out from the brim,</l>
+               <l>Into the current of the water cleare:</l>
+               <l>The <hi>Mouce</hi> rejoycing for to ſee him ſwim,</l>
+               <l>Vpon his backe like <note n="*">
+                     <hi>Neptune the god of the Sea.</hi>
+                  </note> 
+                  <hi>Neptune</hi> doth appeare,</l>
+               <l>When mounted on a Dolphin in his pride,</l>
+               <l>Vpon the toſſing billowes he doth ride:</l>
+               <l>Or like the <hi>Sunne,</hi> clad in his morning weeds,</l>
+               <l>Drawne in his fiery waggon by his Steeds:</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>Maior ſum quam cui poſſit fortuna noſcere.</hi>
+                  </note> With ſo great port and prinely majeſty</l>
+               <l>The little <hi>Mouce</hi> upon the <hi>Frog</hi> did ſtand,</l>
+               <l>Proudly triumphing while the ſhore was nye,</l>
+               <l>And that he could at pleaſure skip to land.</l>
+               <l>Such great delights in water he did ſee,</l>
+               <l>Welneere he could deſire a <hi>Frog</hi> to be.</l>
+               <l>"But as no ſtate can ſtable ſtand for aye:</l>
+               <l>"So every pleaſure hath his ending day.</l>
+            </lg>
+            <lg>
+               <l>For when he ſaw the ſurging billowes riſe,</l>
+               <l>And on a ſudden fall as low as hell,</l>
+               <l>Such ſtore of teares did trickle from his eyes,</l>
+               <l>That their abundance made the water ſwell.</l>
+               <l>And now the waves bedaſh him more and more,</l>
+               <l>Toſſing his corpes amid their watry ſtore,</l>
+               <l>With griefe he wrings his hands, &amp; teares his skin:</l>
+               <l>Such wofull plight, pale feare had put him in.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:14"/>
+               <l>
+                  <note n="*">
+                     <hi>Galeatum ſero duelli poenitet.</hi>
+                  </note> Now doth he wiſh, though wiſhes take no place,</l>
+               <l>That on firme land he were arriv'd againe;</l>
+               <l>He curſeth <hi>Neptune,</hi> and his trident Mace,</l>
+               <l>The troubled waters and the running maine:</l>
+               <l>Now, but too late (alas) doth he repent</l>
+               <l>His fooliſh raſhneſſe, cauſe of this event.</l>
+               <l>"But after-wits like a ſhowre of raine,</l>
+               <l>"That fals untimely on the ripened graine.</l>
+            </lg>
+            <lg>
+               <l>His feet unto his belly he doth ſhrinke,</l>
+               <l>And on the <hi>Frog</hi> his backe doth cloſely ſit,</l>
+               <l>Vſing his nimble tayle when he did ſinke,</l>
+               <l>In ſtead of oare. "Pale feare did learne him wit.</l>
+               <l>The flowing billowes mount above his head,</l>
+               <l>Speechleſſe for ſorrow, and for griefe halfe dead:</l>
+               <l>"Yet death is not ſo bitter as cold feare,</l>
+               <l>"Which makes things greater then they are, appeare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>Heu quid agat?</hi>
+                  </note> Sorrow triumpheth in the <hi>Mouce</hi> his breſt,</l>
+               <l>Deſpaire doth ſit as Marſhall in his minde,</l>
+               <l>Danger and death on ev'ry ſide are preſt,</l>
+               <l>Still to receive him at each puffe of winde:</l>
+               <l>"But danger can the heart of pride ne're breake;</l>
+               <l>"When fear hath ſtaid the tong, yet pride wilſpeak</l>
+               <l>"And though the waters waſh the outward skin,</l>
+               <l>"They cannot waſh preſumption within.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:15"/>
+               <l>For thus he ſighing ſaid, The gentle <note n="*">
+                     <hi>Iupiter when he ſtole away Europa.</hi>
+                  </note> 
+                  <hi>Bull</hi>
+               </l>
+               <l>Which <hi>Ovid</hi> doth applaud for knavery,</l>
+               <l>Did not convay to <hi>Creete</hi> his pretty trull</l>
+               <l>Vpon his necke with ſo great bravery,</l>
+               <l>As King of <hi>Frogs</hi> doth beare the gallant <hi>Mouce</hi>
+               </l>
+               <l>To ſee the pompe and pleaſure of his houſe,</l>
+               <l>Plunging his limmes amid the water cleare,</l>
+               <l>Such confidence to ſwimming he doth beare.</l>
+            </lg>
+            <lg>
+               <l>He this no ſooner ſaid, but ſudden feare</l>
+               <l>Did ſtop the paſſage of his further prate:</l>
+               <l>For loe, a water-<hi>Serpent</hi> did appeare,</l>
+               <l>A helliſh torment to the <hi>Frogs</hi> eſtate,</l>
+               <l>Which cutting through the running ſtreame that way,</l>
+               <l>Winding himſelfe to finde ſome floting prey,</l>
+               <l>The <hi>Frog</hi> eſpide: "What cannot feare deſcry,</l>
+               <l>"Which joyn'd with care, prevents ſad deſtiny?</l>
+            </lg>
+            <lg>
+               <l>For he no ſooner did the Snake behold,</l>
+               <l>Gaping like <note n="*">
+                     <hi>Cerberus is ſaid to have three heads, and to be por<g ref="char:EOLhyphen"/>ter of hell.</hi>
+                  </note> 
+                  <hi>Cerberus</hi> three-headed dog,</l>
+               <l>Ruffling his ſcaly neck which ſhone like gold,</l>
+               <l>But into water dives the wily <hi>Frog.</hi>
+               </l>
+               <l>Leaving the <hi>Mouce</hi> his friend, in ſad lament,</l>
+               <l>Set forth to danger, death, and dire event:</l>
+               <l>"For he which makes a friend of every ſtranger,</l>
+               <l>"Diſcards him not againe without ſome danger.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:15"/>
+               <l>The ſilly <hi>Mouce</hi> diſtreſſed and forlorne,</l>
+               <l>Left to the mercy of the running mayne,</l>
+               <l>Vnto the bottome head-long downe is borne,</l>
+               <l>Where he, poore ſoule, in ſecret doth complaine,</l>
+               <l>Plunging with hands aloft now doth he fleet,</l>
+               <l>Then ſinking downe againe he ſtrikes with feet:</l>
+               <l>"But when grim deſtiny doth once aſſayle,</l>
+               <l>"No might, no ſhift, no force can then prevaile.</l>
+            </lg>
+            <lg>
+               <l>When therefore to approach he knew his death,</l>
+               <l>And that his wet haires furthered his woe,</l>
+               <l>Fate ſtill attendant for to ſtop his breath,</l>
+               <l>And death at hand to worke his overthrow,</l>
+               <l>Weeping for ſorrow, voyd of all reliefe,</l>
+               <l>Thus with himſelfe he ſigh'd to eaſe his griefe:</l>
+               <l>
+                  <note n="*">
+                     <hi>Eſt quaedam flere voluptas.</hi>
+                  </note> "For teares and ſighes, ſad orators of ſmart,</l>
+               <l>"Though they releaſe not, yet they eaſe the heart.</l>
+            </lg>
+            <lg>
+               <l>Perfidious <hi>Frog,</hi> procurer of my wrack,</l>
+               <l>Accurſed Traytor to my fathers Crowne,</l>
+               <l>Thinke not though vengeance for a time be ſlack,</l>
+               <l>That thundring <hi>Iove</hi> to whom all things are known,</l>
+               <l>Will be forgetfull of thy trechery,</l>
+               <l>Through whoſe deceit I dye in miſery,</l>
+               <l>Which from thy back, as off a rocke I ſtood,</l>
+               <l>Haſt thrown me, perjur'd wretch, amid the flood.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:16"/>
+               <l>Well thou perceiv'dſt my valour and my might,</l>
+               <l>My worth, my courage, and agilitie,</l>
+               <l>Which like a daſtard and faint-hearted wight,</l>
+               <l>At unawares haſt wrought my tragedie.</l>
+               <l>By craft I dye in water, though on land</l>
+               <l>Thou durſt not once attempt it with thy hand:</l>
+               <l>But God, whoſe dwelling is the ſtarres among,</l>
+               <l>He knowes thy craft, &amp; will revenge my wrong.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>Jnterdum lachrymae pondera vocis habent.</hi>
+                  </note> The <hi>Mice,</hi> brave <hi>Mice,</hi> ſtern ſoldiers of ſtout <hi>Mars,</hi>
+               </l>
+               <l>In troopes ſhall march againſt thy damned crue,</l>
+               <l>And ſhall purſue thee with ſuch bloudy wars,</l>
+               <l>That <hi>Frogs</hi> unborne yet ſhall have cauſe to rue.</l>
+               <l>Such balefull ſtratagems that day ſhall be,</l>
+               <l>As never curſed traytrous <hi>Frog</hi> did ſee:</l>
+               <l>"For ne're ſhall murder unrevenged boaſt,</l>
+               <l>And with thoſe words he yeelded up the ghoſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lichopinax Lick-trencher,</hi> of great blood,</l>
+               <l>Sitting upon the graſſie waters ſide,</l>
+               <l>Saw when the <hi>Mouce</hi> was drowned in the flood:</l>
+               <l>"For murther by ſome chance will be eſpide;</l>
+               <l>And greatly weeping for the Princes fall,</l>
+               <l>Amayne he poſteth to the Kings neate hall;</l>
+               <l>Where, to his <hi>Grace</hi> ſitting with Lords of ſtate,</l>
+               <l>He tels with griefe his ſonnes unhappy fate.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:16"/>
+               <l>When as his Majeſtie this newes did heare,</l>
+               <l>Sadly he tooke the Princes overthrow,</l>
+               <l>Downe from his throne he fell with heavy cheare,</l>
+               <l>And ſwooned in the place for griefe and woe.</l>
+               <l>His Nobles take him up without delay,</l>
+               <l>And on a royall pallet doe him lay,</l>
+               <l>Where he for ſorrow ſicke was like to dye:</l>
+               <l>"For childrens hurt neere fathers heart doth lye.</l>
+            </lg>
+            <lg>
+               <l>But all the Lords, though they were mal-content,</l>
+               <l>Griev'd for his death, which was their Kings ſole care,</l>
+               <l>Yet like fell Lyons unto anger bent,</l>
+               <l>A blacke revenge within their minds they ſware.</l>
+               <l>With comfortable words they cheare their King,</l>
+               <l>Which ſomewhat did abate his ſorrowing.</l>
+               <l>
+                  <note n="*">
+                     <hi>Minuit vindicta dolorem.</hi>
+                  </note> Hope of revenge did ſo his ſtomacke pricke,</l>
+               <l>Now he is ſtrong againe, which erſt was ſicke.</l>
+            </lg>
+            <lg>
+               <l>His meſſengers diſpatched are apace,</l>
+               <l>To all the hungry corners in his land,</l>
+               <l>Commanding all his ſubjects in ſhort ſpace,</l>
+               <l>At Court before his Majeſtie to ſtand,</l>
+               <l>To learne his pleaſure for his wofull ſonne,</l>
+               <l>Whom the proud king of <hi>Frogs</hi> to death had don.</l>
+               <l>Whoſe corps lie buried in the rolling wave,</l>
+               <l>Wanting a royall Hearſe as Princes have.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:17"/>
+               <l>
+                  <note n="*">
+                     <hi>The dutifulneſſe of the Mice.</hi>
+                  </note> The time no ſooner came, when ev'ry <hi>Mouce</hi>
+               </l>
+               <l>Of any office, calling or degree,</l>
+               <l>In his owne perſon at the kings great Houſe,</l>
+               <l>Before his Majeſtie ſhould preſent be:</l>
+               <l>But all the Lords, knights, ſquires, &amp; gentle <hi>Mice</hi>
+               </l>
+               <l>Reſort to Court before the ſunne did riſe,</l>
+               <l>The baſeſt <hi>Mouce</hi> that had a tayle behinde,</l>
+               <l>Poſted apace to know his Graces minde.</l>
+            </lg>
+            <lg>
+               <l>Within the Court aſſembled were the States,</l>
+               <l>And each one ſeated in his due degree,</l>
+               <l>The Commons ſtayed at the Palace gates,</l>
+               <l>Yet where they might the King both heare and ſee.</l>
+               <l>Then preſently his Majeſtie came downe,</l>
+               <l>Clad like a mourner in a murry gowne,</l>
+               <l>And from his throne, though griefe had made him weake,</l>
+               <l>Yet angry for his ſonne, thus did he ſpeake:</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>The Oration of the King of Mice.</hi>
+                  </note> Stout Peeres, brave Nobles, and my Captaines tall,</l>
+               <l>And you kinde ſubjects to your loving King,</l>
+               <l>Though to my part theſe miſchiefes onely fall,</l>
+               <l>Which from my drearie eyes ſad teares doe bring:</l>
+               <l>Yet to you all this dammage doth belong,</l>
+               <l>"For Kings miſhap to ſubjects is a wrong.</l>
+               <l>I like a father, you like friends complaine,</l>
+               <l>Since curſed <hi>Frogs,</hi> my ſonne, your Prince have ſlaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:17"/>
+               <l>" <note n="*">
+                     <hi>Tenet auratum limen erinnys.</hi>
+                  </note> Great are the cares attend upon a throne,</l>
+               <l>"And moſt misfortunes ſit in <hi>Caeſars</hi> lap:</l>
+               <l>Then who ſo wretched as poore I alone,</l>
+               <l>Predeſtinate to nothing but miſhap?</l>
+               <l>Once happy in three children borne to me,</l>
+               <l>As pretty <hi>Mice</hi> as ever man did ſee.</l>
+               <l>But Fortune glad to triumph in my woe,</l>
+               <l>Hath brought my ſorrow with their overthrow.</l>
+            </lg>
+            <lg>
+               <l>For firſt, the eldeſt ſcarce was two months old,</l>
+               <l>When playing like a wanton up and downe,</l>
+               <l>A grieſly <hi>Cat</hi> the young <hi>Mouce</hi> did behold,</l>
+               <l>And quickly caught him by the tender crowne.</l>
+               <l>Betweene whoſe cruell jawes my ſonne did die,</l>
+               <l>Without remorſe devoured traytrouſly.</l>
+               <l>A <hi>Stygian</hi> Butcher, knowne unto you all,</l>
+               <l>Whoſe teeth aſunder teare both great and ſmall.</l>
+            </lg>
+            <lg>
+               <l>My ſonne next him, a little noble <hi>Mouce,</hi>
+               </l>
+               <l>Too ventrous for to live (O griefe to tell!)</l>
+               <l>Hunting for food within a Farmers houſe,</l>
+               <l>
+                  <note n="*">
+                     <hi>Fraude perit virtus.</hi>
+                  </note> Into an engyne made of wood he fell,</l>
+               <l>Invented by mans art and policie,</l>
+               <l>To cruſh and murther all our Progenie:</l>
+               <l>There (loving Subjects) dy'de my ſecond childe,</l>
+               <l>With rigour maſſacred, with craft beguild.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:18"/>
+               <l>And now my third, my laſt beloved ſonne,</l>
+               <l>But beſt beloved ſonne of all the three,</l>
+               <l>With whom my joyes doe end, my life is done,</l>
+               <l>Moſt deare to his Queene-mother and to me;</l>
+               <l>In whom decayes the iſſue of my blood,</l>
+               <l>
+                  <note n="*">
+                     <hi>Hinc illae lachrymae.</hi>
+                  </note> Aye me, lyes buried in the raging flood,</l>
+               <l>Betrayd and drowned by the <hi>Frogs</hi> fell King,</l>
+               <l>To whom my ſword ſad elegies ſhall ſing.</l>
+            </lg>
+            <lg>
+               <l>Then quickly arme your ſelves, to armes, he cries,</l>
+               <l>Fight for your King and Country without feare,</l>
+               <l>Purſue the <hi>Frogs</hi> your curſed enemies,</l>
+               <l>And gard your ſelves with helmet, ſhield and ſpeare;</l>
+               <l>With courage ſhew your valour and your might,</l>
+               <l>The day is ours: for <hi>Iove</hi> ſtill aydes the right:</l>
+               <l>Brave Lords, kind ſubjects, fight couragiouſly,</l>
+               <l>God and Saint <note n="*">
+                     <hi>She is holden patroneſſe over Mice.</hi>
+                  </note> 
+                  <hi>Gertrude</hi> grant us victory.</l>
+            </lg>
+            <lg>
+               <l>The King in anger here did make an end,</l>
+               <l>And preſently diſmiſſed all the crue,</l>
+               <l>Which all their ſtudie and endevours bend,</l>
+               <l>That black revenge and battell might enſue.</l>
+               <l>The Kings ſad words did ſtirre them up ſo farre,</l>
+               <l>That nought they talke of now but bloudy war.</l>
+               <l>And every <hi>Mouce</hi> from greateſt to the leaſt,</l>
+               <l>Prepares ſuch weapons as will fit them beſt.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:18"/>
+               <l>
+                  <note n="*">
+                     <hi>The armes and weapons of the Mice.</hi>
+                  </note> And firſt, for legs, theſe never daunted <hi>Mice,</hi>
+               </l>
+               <l>Warlike habiliments in haſte provide,</l>
+               <l>Garded with huskes of peaſe (O rare device!)</l>
+               <l>As though with boots or ſtart-ups they would ride:</l>
+               <l>"Whoſe policy if this our age would trie,</l>
+               <l>"So many maymed ſouldiers ſhould not die:</l>
+               <l>"For they which loſe their legs, do lack their might</l>
+               <l>"Nor can they fly, nor ſtoutly ſtand to fight.</l>
+            </lg>
+            <lg>
+               <l>Next with a corſlet they defend the heart,</l>
+               <l>Not made of ſteele, but of an old ſtraw-hat,</l>
+               <l>With which before they did award that part,</l>
+               <l>Againſt the forces of the greedy <hi>Cat:</hi>
+               </l>
+               <l>A piece of leather on their backe they don,</l>
+               <l>Which ſerves in ſtead of an habergion:</l>
+               <l>The bottome of a candleſticke doth ſtand</l>
+               <l>For target or a buckler in their hand.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>Gerimus quae poſſumus arma.</hi>
+                  </note> Small brazen pinnes they brandiſh like a ſpeare,</l>
+               <l>And toſſe their needles like ſtrong pikes about;</l>
+               <l>A walnut ſhell for helmet they doe beare,</l>
+               <l>After that they had eate the kernell out.</l>
+               <l>And thus they march to fight that bloudy fray,</l>
+               <l>Vaunting in armour and their proud array:</l>
+               <l>"For weapons unto force freſh courage bring,</l>
+               <l>"A <hi>Mouce</hi> in armes doth thinke himſelfe a king.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:19"/>
+               <l>
+                  <note n="*">
+                     <hi>Res animos incognita turbat.</hi>
+                  </note> But when the trumpe of iron-winged Fame</l>
+               <l>Had ſounded to the <hi>Frogs</hi> this bad report,</l>
+               <l>Out of the water in great troopes they came,</l>
+               <l>And on the ſhore together doe reſort,</l>
+               <l>There to determine what the cauſe ſhould be,</l>
+               <l>Of theſe ſtrange warres and ſudden mutinie:</l>
+               <l>Their dread increaſeth by each brute they heare:</l>
+               <l>"For feare of unknown things breed greater feare</l>
+            </lg>
+            <lg>
+               <l>Whiles thus they ſtand perplexed and afraid,</l>
+               <l>
+                  <note n="*">
+                     <hi>Herald Eate-cheeſe.</hi>
+                  </note> A <hi>Herald</hi> bold of Armes they might deſcry,</l>
+               <l>
+                  <hi>Eat-cheeſe Tyroglyphus,</hi> which not diſmaid,</l>
+               <l>Dare ſtoutly to their face the <hi>Frogs</hi> defie,</l>
+               <l>Whom noble <hi>Embaſichytros</hi> begot,</l>
+               <l>
+                  <hi>That ſlily creepeth into ev'ry pot.</hi>
+               </l>
+               <l>He bearing in his hand a regall mace,</l>
+               <l>Thus to the <hi>Frogs</hi> did ſpeake in great diſgrace:</l>
+            </lg>
+            <lg>
+               <l>To you diſloyall <hi>Frogs</hi> that hunt for blood,</l>
+               <l>And to your King that wrought our Princes fall,</l>
+               <l>Drowning his body in the raging flood,</l>
+               <l>Whoſe death to heaven doth for vengeance call.</l>
+               <l>To you I come, ſad meſſenger of woe,</l>
+               <l>From angry <hi>Mice,</hi> which wiſh your overthrow:</l>
+               <l>And here, in all their names, and from our King,</l>
+               <l>A flat defiance to baſe <hi>Frogs</hi> I bring.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:19"/>
+               <l>
+                  <note n="*">
+                     <hi>Ingentes parturit ira minas.</hi>
+                  </note> Warres, hoſtile warres, accurſed traytrous <hi>Frogs,</hi>
+               </l>
+               <l>Here I denounce, and ſpit within your face,</l>
+               <l>Damned deceitfull wretches from your bogs</l>
+               <l>We will aboliſh your deteſted race:</l>
+               <l>Then arme your ſelves, for vengeance we will take</l>
+               <l>Vpon all <hi>Frogs</hi> for our brave princes ſake.</l>
+               <l>If courage in your craven hearts doth dwell,</l>
+               <l>Meet us in open field: and ſo farewell.</l>
+            </lg>
+            <lg>
+               <l>When he had ſaid theſe words, as in diſdaine,</l>
+               <l>Scorning an anſwere from the <hi>Frogs</hi> to beare,</l>
+               <l>Forthwith he poſted to the <hi>Mice</hi> againe,</l>
+               <l>Whoſe meſſage put the <hi>Frogs</hi> in mighty feare:</l>
+               <l>"Yet feare breeds wrath, wrath kindles courage more.</l>
+               <l>That now windes rage which erſt were calme before.</l>
+               <l>The King then riſing from his chaire of ſtate,</l>
+               <l>Gravely their valours thus did animate:</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>The Oration of the King of Frogs.</hi>
+                  </note> Lords, Nobles, gallant <hi>Frogs,</hi> and all the Trayne</l>
+               <l>Which here attend to know our royall will,</l>
+               <l>Subjects, nay more then Subjects in our raigne,</l>
+               <l>For we are fellowes and compartners ſtill:</l>
+               <l>Vexe not your mindes, "all clouds doe beare no raine,</l>
+               <l>"Nor in proud brags true valour doth remaine.</l>
+               <l>Theſe are but words, fit bugs to ſcare the crowes:</l>
+               <l>"And cowards brags do ſeldome end with blows.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:20"/>
+               <l>"But if their meaning with their words agree,</l>
+               <l>"Then doe they ſeeke to undermine our Crowne,</l>
+               <l>A forged quarrell they impoſe on me,</l>
+               <l>That I a proud audacious <hi>Mouce</hi> ſhould drowne:</l>
+               <l>And under this falſe colour they deviſe,</l>
+               <l>To cloke the treaſons of their enterpriſe.</l>
+               <l>"Each foole can finde a ſtaffe to beate a dog.</l>
+               <l>"He muſt have both his eyes that blindes a <hi>Frog.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Heaven and earth to witneſſe I doe call,</l>
+               <l>And all the golden Planets of the skie,</l>
+               <l>That I attempted not the <hi>Mouces</hi> fall,</l>
+               <l>Nor once remember I did ſee him die:</l>
+               <l>But this I thinke, that, playing on the brim,</l>
+               <l>Seeing the gallant <hi>Frogs</hi> ſo bravely ſwim,</l>
+               <l>He thought to doe the like, and leaped in,</l>
+               <l>Where he was juſtly plagued for his ſinne.</l>
+            </lg>
+            <lg>
+               <l>And now theſe lurking creatures, hungry <hi>Mice,</hi>
+               </l>
+               <l>Which ſcarce dare ſhew their faces in the light,</l>
+               <l>A crue of greedy vermine, which deviſe</l>
+               <l>Nothing but ſtealth and rapine in the night:</l>
+               <l>Theſe doe unjuſtly charge me with his death,</l>
+               <l>Becauſe within our reigne he loſt his breath:</l>
+               <l>But I will teach theſe proud audacious fooles,</l>
+               <l>Not jeſt with kings, nor meddle with edge-tooles.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:20"/>
+               <l>Then friends, kind friends, &amp; fellowes to your king,</l>
+               <l>Plucke up your ſpirits, baniſh ſlaviſh feares;</l>
+               <l>For in this warre, whence terrour ſeemes to ſpring,</l>
+               <l>Me thinkes great joy and comfort ſtill appeares,</l>
+               <l>Since gallant <hi>Frogs,</hi> whom nothing terrifies,</l>
+               <l>Fight with a ſtarved troope of hungry <hi>Mice.</hi>
+               </l>
+               <l>Courage, brave mates, take weapons, and to fight:</l>
+               <l>"Fortune defends true valour in his right.</l>
+            </lg>
+            <lg>
+               <l>But ſince men may in warre ſometimes prevayle,</l>
+               <l>As much by policy, as power or might,</l>
+               <l>And that where ſtrength and proweſſe often fayle,</l>
+               <l>Wit doth at length give ſuccour to the right.</l>
+               <l>
+                  <note n="*">
+                     <hi>A rare policy of the Frogs.</hi>
+                  </note> I wiſh you arme your ſelves with ſpeare &amp; ſhield,</l>
+               <l>And march along the ſhore unto the field,</l>
+               <l>Where, on a hill which over-lookes the flood,</l>
+               <l>We will incampe our ſelves as in a wood.</l>
+            </lg>
+            <lg>
+               <l>When to this place theſe craven <hi>Mice</hi> convay</l>
+               <l>Their fearefull ſouldiers, like a flocke of ſheepe,</l>
+               <l>And to beſiege our fortreſſe ſhall aſſay,</l>
+               <l>Where we upon the hill our forces keepe:</l>
+               <l>If any boaſting <hi>Mouce</hi> upon the banke,</l>
+               <l>Dare but aſcend one foot before his ranke,</l>
+               <l>Him we will all aſſayle infurious mood,</l>
+               <l>And caſt his body headlong in the flood.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:21"/>
+               <l>By this rare ſtratagem and brave deviſe,</l>
+               <l>We ſhall their malice and great pride abate:</l>
+               <l>Thus ſhall we conquer corner-creeping <hi>Mice,</hi>
+               </l>
+               <l>Which would annoy our peace and quiet ſtate.</l>
+               <l>
+                  <note n="*">
+                     <hi>Addidit invalida robur faecundia cauſae,</hi>
+                  </note> And thus with trophies and triumphing play,</l>
+               <l>We will like victors crowne our heads with bay.</l>
+               <l>Then arme your ſelves, brave mates, with ſpeare &amp; ſhield</l>
+               <l>"God, and great <hi>Neptune</hi> grant us winne the field.</l>
+            </lg>
+            <lg>
+               <l>Here did he end, and ſcarce he made an end,</l>
+               <l>But all the <hi>Frogs,</hi> from greateſt to the leaſt,</l>
+               <l>For theſe enſuing warres their ſtudies bend</l>
+               <l>To get ſuch weapons as befit them beſt:</l>
+               <l>
+                  <note n="*">
+                     <hi>The armour and weapons of the Frogs.</hi>
+                  </note> Firſt to their thighes green Malow they do wrap,</l>
+               <l>Which hang down like a bag or butchers flap.</l>
+               <l>Beets, like a cloke, upon their backe they don,</l>
+               <l>Which ſerves for breſt-plate and habergion.</l>
+            </lg>
+            <lg>
+               <l>A Cockles ſhell for ſallet they prepare,</l>
+               <l>T'award their heads from blowes amid the field:</l>
+               <l>In their left hands theſe water-ſouldiers bare</l>
+               <l>A leafe of Colewort for a truſty ſhield,</l>
+               <l>And in their right (for all parts armed were)</l>
+               <l>They toſſe a bulruſh for a pike or ſpeare.</l>
+               <l>Along the ſhore they march in this aray,</l>
+               <l>Mad with fell rage, yet glad to ſee this day.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:21"/>
+               <l>Thus whil'ſt both armies did prepare to fight,</l>
+               <l>
+                  <note n="*">
+                     <hi>A counſell aſſembled in heaven.</hi>
+                  </note> Almighty <hi>Iove,</hi> eternall, without end,</l>
+               <l>Invites the gods into his palace bright,</l>
+               <l>Whence ratling thunder, &amp; bright flames deſcend:</l>
+               <l>And pointing with his finger downe below,</l>
+               <l>To them theſe puiſſant warriours doth he ſhow,</l>
+               <l>Stout as the <hi>Contaures</hi> or the <hi>Gyants</hi> great,</l>
+               <l>Which once aſſai'd to pull <hi>Jove</hi> from his ſeat.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*">
+                     <hi>Aſpiciunt oculis ſuperi mortalia iuſtis.</hi>
+                  </note> Whom when the gods together did behold,</l>
+               <l>Marching like <hi>Pigmie-Braggarts</hi> in aray,</l>
+               <l>And ſternly ſhake their ſpeares like champions bold,</l>
+               <l>As though no terrour could their hearts diſmay,</l>
+               <l>They made the court of heavn with laughter ring;</l>
+               <l>Such pleaſure and delight the ſight did bring.</l>
+               <l>Then ſmiling <hi>Iove</hi> (deep ſilence kept a ſpace)</l>
+               <l>Lift up his voyce, and ſpoke with royall grace:</l>
+            </lg>
+            <lg>
+               <l>If <hi>Frogs</hi> and <hi>Mice</hi> (quoth he) their patrons have,</l>
+               <l>Chaſt daughter <hi>Pallas,</hi> my <note n="*">
+                     <hi>Goddeſſe of warre.</hi>
+                  </note> 
+                  <hi>Bellona</hi> deere,</l>
+               <l>Tell us which ſide thou wilt protect and ſave,</l>
+               <l>Shall not the gallant <hi>Mice</hi> be victors here?</l>
+               <l>Great ſtore of them within thy temples dwell,</l>
+               <l>Allured thither by the tempting ſmell,</l>
+               <l>Which ſtill amounteth from thy ſacrifice.</l>
+               <l>
+                  <hi>Pallas</hi> againe did anſwer in this wiſe:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:22"/>
+               <l>Great Lord of heav'n and earth, beloved Sire,</l>
+               <l>If you command, your daughter muſt obay,</l>
+               <l>My will ſubjected is to your deſire,</l>
+               <l>"For children cannot fathers heſts deny:</l>
+               <l>Yet force me not, kinde father, once to ſhield</l>
+               <l>Theſe hunger-ſtarved pyrats in the field,</l>
+               <l>Falſe lurking creatures, greedy theeviſh <hi>Mice,</hi>
+               </l>
+               <l>Whoſe teeth pollute my ſweet fat ſacrifice.</l>
+            </lg>
+            <lg>
+               <l>Great are the wrongs and miſchiefes I abide,</l>
+               <l>By theſe deteſted vermine day and night,</l>
+               <l>Much they impaire my worſhip and my pride:</l>
+               <l>And ſhall I then defend them in this right?</l>
+               <l>The hallow'd oyle, which ſacred fire doth ſtay</l>
+               <l>Within my lamps, they ſteale and licke away:</l>
+               <l>My <note n="*">
+                     <hi>Crownes of victory.</hi>
+                  </note> crowns they gnaw, but theſe are loſſes ſmall,</l>
+               <l>This is the hurt moleſts me moſt of all:</l>
+            </lg>
+            <lg>
+               <l>My brave enſigne embrodered all with gold,</l>
+               <l>Never brave enſigne was ſo rich of price,</l>
+               <l>Wherein my acts and triumphs were enrold,</l>
+               <l>Is eaten, torne and ſpoyled by theſe <hi>Mice.</hi>
+               </l>
+               <l>This is my hurt ſurpaſſing all the reſt,</l>
+               <l>For this cauſe chiefly I theſe <hi>Mice</hi> deteſt:</l>
+               <l>And ſhall I, father, ſeeme to patronize</l>
+               <l>My foes, my wrongers, and ſworne enemies?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:22"/>
+               <l>Ne're theſe accurſed beaſts will I defend:</l>
+               <l>Command ought elſe, great <hi>Iove,</hi> but pardon this:</l>
+               <l>Nor durty <hi>Frogs Bellona</hi> will befriend,</l>
+               <l>Whoſe joy and pleaſure in foule puddles is.</l>
+               <l>For as I loath the <hi>Mice</hi> for ſundry wrongs:</l>
+               <l>So I deteſt baſe <hi>Frogs</hi> for croking ſongs,</l>
+               <l>Whoſe harſh unpleaſant voyces in the night</l>
+               <l>Breed nought but terror to each mortall wight.</l>
+            </lg>
+            <lg>
+               <l>When I returne oft ſweating from the warres,</l>
+               <l>And after fainting travell thinke to ſleepe,</l>
+               <l>With their ſeditious brawles, and croking jarres,</l>
+               <l>Which in the filthy mariſhes they keepe:</l>
+               <l>Awake I lye, till mornings trumpeter</l>
+               <l>Gives warning for the day-ſtarre to appeare,</l>
+               <l>And cheerfull Cock chants forth his wonted lay,</l>
+               <l>To ſhew the dawning of the joyfull day:</l>
+            </lg>
+            <lg>
+               <l>Though we are gods, yet let us all beware</l>
+               <l>To ſuccour in our perſon either part:</l>
+               <l>For if theſe meete the gods, they will not ſpare</l>
+               <l>To ſtrike them with their javelins to the heart:</l>
+               <l>But let us rather joy to ſee this fray,</l>
+               <l>Where we behold their ruine and decay.</l>
+               <l>Thus <hi>Pallas</hi> ſaid. To whom incontinent</l>
+               <l>The heavenly <hi>Senate</hi> gave a full conſent.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:23"/>
+               <l>
+                  <note n="*">
+                     <hi>The battell.</hi>
+                  </note> Meane while both armies muſtred on the plaine,</l>
+               <l>And place their wings and ſquadrons in aray,</l>
+               <l>From either part a <hi>Herald</hi> doth againe</l>
+               <l>Give ſigne for battell and the bloudy day.</l>
+               <l>The buzzing Flies, becauſe they were of skill</l>
+               <l>To blow alowd their hornes and trumpets ſhrill,</l>
+               <l>A harſh <hi>tantarra</hi> ſound unto the fight,</l>
+               <l>Which lends more courage to their wonted might.</l>
+            </lg>
+            <lg>
+               <l>Heaven and earth doth thunder with the cry,</l>
+               <l>When front to front theſe noble armies meet,</l>
+               <l>Looſe waving in the winde their enſignes flie,</l>
+               <l>With wounds and fatall blowes each other greet.</l>
+               <l>The <hi>Mice</hi> aſſaile, the <hi>Frogs</hi> the fight accept,</l>
+               <l>In combat cloſe each hoſt to other ſtept:</l>
+               <l>For now the wings had skirmiſh hot begun,</l>
+               <l>And with their battels forth like Lyons run.</l>
+            </lg>
+            <lg>
+               <l>But who was firſt amid this bloudy fight,</l>
+               <l>That gave the onſet firſt, firſt wanne renowne?</l>
+               <l>
+                  <hi>Croaking Hypſiboas,</hi> firſt like a knight,</l>
+               <l>
+                  <hi>Lick-taile Lichenor</hi> bravely tumbled downe,</l>
+               <l>Into his paunch ſo ſtrong he thruſt his ſpeare,</l>
+               <l>That forth his backe behinde it did appeare,</l>
+               <l>Groveling the <hi>Mouce</hi> fell on the ſandy plaine,</l>
+               <l>By this audacious <hi>Frog</hi> with valour ſlaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:23"/>
+               <l>Next him, <hi>Troglodytes,</hi> which not afraid,</l>
+               <l>
+                  <hi>Each ſecret hole and corner creepeth in,</hi>
+               </l>
+               <l>Gave <hi>Pelion</hi> the <hi>Frog, with durt berayd,</hi>
+               </l>
+               <l>A deadly foile with his ſmall brazen pin:</l>
+               <l>Within the wound the javeling ſticketh ſore,</l>
+               <l>And fro<g ref="char:cmbAbbrStroke">̄</g> the veines forth ſtreams the purple gore,</l>
+               <l>Thus to his end pale death this <hi>Frog</hi> did bring,</l>
+               <l>"<note n="*">
+                     <hi>Tendimus huc omnes.</hi>
+                  </note> Which kils the caitife with the crowned king.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pot-creeping Embaſichytros,</hi> of late,</l>
+               <l>Whoſe valiant ſonne did all the <hi>Frogs</hi> defie,</l>
+               <l>Now quite confounded by diſaſtrous fate,</l>
+               <l>Devoid of life thy headles truncke doth lie</l>
+               <l>At hardy <hi>Seutlëus</hi> his crooked feet,</l>
+               <l>A <hi>Frog</hi> which <hi>feeds on nothing but the beete.</hi>
+               </l>
+               <l>And <hi>clam'rous Polyphon</hi> there lyes thou dead,</l>
+               <l>Slayne by <hi>Artophagus</hi> which <hi>eateth bread.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But when <hi>Limnocharis</hi> their deaths beheld,</l>
+               <l>
+                  <hi>Which in the mariſh hath his whole delight,</hi>
+               </l>
+               <l>The angry <hi>Frog,</hi> by love and ire compeld,</l>
+               <l>To ſad revenge his pow'r and forces dight:</l>
+               <l>"<note n="*">
+                     <hi>Mors morte pianda eſt.</hi>
+                  </note> Life muſt be paid with life, the <hi>Frog</hi> did cry,</l>
+               <l>"Their deaths I will revenge, or with them dye.</l>
+               <l>"Thus when true love, &amp; valour guide the heart,</l>
+               <l>"A cowards hand will play a ſouldiers part.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:24"/>
+               <l>And from the ground a milſtone in great haſt</l>
+               <l>He raught: "ſtrange wonders courage doth enact:</l>
+               <l>And with great violence the ſame he caſt,</l>
+               <l>At proud <hi>Troglodites</hi> as one diſtract:</l>
+               <l>In middle of his necke the ſtone did light,</l>
+               <l>Whereby he ſleepeth in eternall night:</l>
+               <l>Thus bruiſed with the fall, this <hi>Mouce</hi> did lye,</l>
+               <l>Suffring the torments of deaths tyranny.</l>
+            </lg>
+            <lg>
+               <l>Yong <hi>Lichenor,</hi> his ſonne that firſt was ſlaine,</l>
+               <l>A gallant <hi>Mouce,</hi> which did no colours feare,</l>
+               <l>Deſirous, though with death, renowne to gaine,</l>
+               <l>That his exploits, enſuing times might heare,</l>
+               <l>Fierce butcher-like <hi>Limnocharis</hi> eſpide,</l>
+               <l>Whoſe weapons were with bloud in ſcarlet dide:</l>
+               <l>To whom he ſaid, Fight coward, or elſe flie,</l>
+               <l>Thou or <hi>Lichenor</hi> here ſhall ſurely dye.</l>
+            </lg>
+            <lg>
+               <l>And with thoſe words, ayming his heart to hit,</l>
+               <l>Strongly his javeling at the <hi>Frog</hi> he threw,</l>
+               <l>It pierc't his ſide, his breſt and bowels ſplit,</l>
+               <l>His vitall ſpirits from his body flew;</l>
+               <l>Dead lay <hi>Limnocharis</hi> upon the playne,</l>
+               <l>The braveſt ſouldier in the watry trayne.</l>
+               <l>"For death impartiall doth with one ſelfe hand,</l>
+               <l>"Cut off the ſtrong &amp; weake at heavens command.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:24"/>
+               <l>
+                  <hi>Crambophagus, Eat-Colewort,</hi> which of late</l>
+               <l>Baſely his armes and weapons caſt away,</l>
+               <l>Thinking by flight to flie the ſtroke of fate,</l>
+               <l>Ran to the water from the mortall fray:</l>
+               <l>Whom <hi>Lichenor,</hi> more ſwift then he, purſude,</l>
+               <l>And in his hearts warm bloud his ſpeare imbru'd:</l>
+               <l>Vpon the ſhore the daſtard <hi>Frog</hi> was ſlaine,</l>
+               <l>Ere he could leape into the running maine.</l>
+            </lg>
+            <lg>
+               <l>Heroicall <hi>Limneſus, Fennie Lord,</hi>
+               </l>
+               <l>Incenſed by mad rage, blacke furies brand,</l>
+               <l>The bold <hi>Ty<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oglyphus</hi> ſlew with the ſword,</l>
+               <l>A great commander in the <hi>Mouces</hi> band.</l>
+               <l>
+                  <hi>Deepe holes and hollow caves he uſde to delve</hi>
+               </l>
+               <l>
+                  <hi>Among the Cheeſes lying on the ſhelve.</hi>
+               </l>
+               <l>His head the <hi>Frog</hi> doth from his necke advance,</l>
+               <l>And in great triumph beares it on his lance.</l>
+            </lg>
+            <lg>
+               <l>Faint-hearted <note n="*">
+                     <hi>So called of the herbe Calamint.</hi>
+                  </note> 
+                  <hi>Calaminthiu,</hi> in great feare,</l>
+               <l>Little in ſtature, and of courage ſmall,</l>
+               <l>Beholding vaſt <hi>Pternoglyphus</hi> appeare,</l>
+               <l>A <hi>Mouce</hi> exceeding great, ſtrong, bourly, tall</l>
+               <l>And which <hi>in bacon flitches holes doth make,</hi>
+               </l>
+               <l>He doth his weapons with the field forſake,</l>
+               <l>And craven-like fled to the durty bogs,</l>
+               <l>"Even as the fearefull Hare purſude with dogs.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:25"/>
+               <l>But bold <hi>Hydrocharis, that loves the flood,</hi>
+               </l>
+               <l>Famous for deeds of armes, would never flie,</l>
+               <l>The furious <hi>Mouce</hi> this peereleſſe <hi>Frog</hi> withſtood,</l>
+               <l>Nor would he ſhun a foot though he ſhould die:</l>
+               <l>Lately <hi>Pternophagon</hi> this gallant killed,</l>
+               <l>
+                  <hi>Which oft with Bacon hath his belly filled:</hi>
+               </l>
+               <l>Now with a ſtone, <hi>Pternoglyphus</hi> he ſlew,</l>
+               <l>Whoſe cloddred brains the crimſon field imbrew.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lichopinax,</hi> which firſt told to the king</l>
+               <l>The balefull newes of his ſonnes tragedy,</l>
+               <l>At <hi>Borborocaetes</hi> did his darts ſtill fling:</l>
+               <l>A valiant <hi>Frog,</hi> though <hi>in the durt he lye.</hi>
+               </l>
+               <l>Proſtrate he fell upon the ſandy ground,</l>
+               <l>The <hi>Mouces</hi> dart had made a mortall wound:</l>
+               <l>Whereat pale death ſent forth his fainting ſprite,</l>
+               <l>To ſleepe in darkeneſſe and eternall night.</l>
+            </lg>
+            <lg>
+               <l>When this the <hi>Frog Praſſophagus</hi> beheld,</l>
+               <l>
+                  <hi>Eat-Leeke Praſſophagus,</hi> ſwift as the <hi>Hynde,</hi>
+               </l>
+               <l>He ranne with mighty ſtowre along the field,</l>
+               <l>And taking <hi>Cuiſſodioctes neat</hi> behind,</l>
+               <l>From off his feet the little <hi>Mouce</hi> he flung,</l>
+               <l>Into the ſtreaming current all along,</l>
+               <l>Nor there he left him, till with raging mood</l>
+               <l>He had his foe eſtrangled in the flood.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:25"/>
+               <l>
+                  <hi>Eat-crumme Pſicharpax,</hi> which was neere allide</l>
+               <l>Vnto the kings yong ſonne that erſt was drown'd,</l>
+               <l>In ſuccour of his friends the <hi>Frogs</hi> defide,</l>
+               <l>And to the battell made him ready bound,</l>
+               <l>
+                  <hi>Durty Peluſus</hi> in the panch he thruſt,</l>
+               <l>Faintly the <hi>Frog</hi> ſunke downe into the duſt,</l>
+               <l>Whoſe fluttring ſpirit did her paſſage make,</l>
+               <l>Downe to <note n="*">
+                     <hi>It is taken for the entry into hell.</hi>
+                  </note> 
+                  <hi>Avernus</hi> that unpleaſant lake.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pelobates,</hi> which loves <hi>to tread the myre,</hi>
+               </l>
+               <l>Saw when his friend and fellow ſouldier fell,</l>
+               <l>And adding fuell to the ſmoking fire,</l>
+               <l>His furie into burning flames gan ſwell:</l>
+               <l>For filling both his hands with durt apace,</l>
+               <l>He caſt it fiercely in <hi>Pſicharpax</hi> face,</l>
+               <l>Which much beſmeard his viſage with diſguiſe,</l>
+               <l>And almoſt blinded and put out his eyes.</l>
+            </lg>
+            <lg>
+               <l>But he the ſtrong <hi>Pſicharpax</hi> mov'd with ſpleene,</l>
+               <l>And juſtly angry at this beaſtly wrong,</l>
+               <l>Tooke up a mighty ſtone which there had beene</l>
+               <l>A bound or landmarke tweene two neigbours long,</l>
+               <l>And hurling it with vigour and great power,</l>
+               <l>He burſt his knee aſunder in that ſtower,</l>
+               <l>The right leg fell diſmembred from his thigh,</l>
+               <l>And not once moving, on the ground doth lye.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:26"/>
+               <l>Ne there he thought to leave him in ſad plight,</l>
+               <l>But with a javelin would have reſt his life,</l>
+               <l>Had not <hi>Craugaſides,</hi> that croaking wight,</l>
+               <l>
+                  <hi>Whoſe chiefeſt pleaſure is in brawling ſtrife,</hi>
+               </l>
+               <l>Kept off the blow, and with a ſudden puſh,</l>
+               <l>Thruſt through the <hi>Mouce</hi> his belly with a ruſh,</l>
+               <l>Vpon the ground his bowels guſhed forth:</l>
+               <l>"Thus di'de this martial hart, &amp; <hi>Mouce</hi> of worth<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Which when <hi>Eat-corne Sitophagus</hi> eſpide,</l>
+               <l>That erſt was maymed of two legs in fight,</l>
+               <l>Waſhing his wounds along the water ſide,</l>
+               <l>And ſore amazed at this rufull ſight,</l>
+               <l>He dared not adventure forth againe</l>
+               <l>Into the field, for feare he ſhould be ſlaine:</l>
+               <l>But leapt into the ſtrong entrenched fort,</l>
+               <l>Where he received was in joyfull ſort.</l>
+            </lg>
+            <lg>
+               <l>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thleſſe the warlike troopes of eyther band,</l>
+               <l>Perſiſted ſtill with courage in the field,</l>
+               <l>Great ſtore lye ſlaine upon the drenched ſand,</l>
+               <l>Yet not, for thy, a ſouldier ſeemes to yeeld:</l>
+               <l>"Now fury roares, ire threats, &amp; woe complains,</l>
+               <l>"One weepes, another cryes, he ſighes for paines.</l>
+               <l>"The hoſts both clad in bloud, in duſt and myre,</l>
+               <l>"Had chang'd their cheare, their pride, their rich attire.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:26"/>
+               <l>Thus whiles the conqueſt was to neither bent,</l>
+               <l>But poizd in ballance betweene hope and feare,</l>
+               <l>Thoſe two which hold the ſupreme government</l>
+               <l>O're both the armies which in battell were,</l>
+               <l>
+                  <note n="*">
+                     <hi>The conflict of the two kings.</hi>
+                  </note> The Kings of <hi>Frogs</hi> and <hi>Mice</hi> together meete,</l>
+               <l>Where they with mortal blows each other greet:</l>
+               <l>"But cowards often faintly ſtep aſide,</l>
+               <l>"When manhood is by reſolution tride.</l>
+            </lg>
+            <lg>
+               <l>For ſcarce they had encountred in the fight,</l>
+               <l>And lent ſome equall ſtrokes on either ſide,</l>
+               <l>When king of <hi>Mice</hi> thinking his foe to ſmite</l>
+               <l>Vpon the head, his ſword to ground did glide,</l>
+               <l>But yet his foot it wounded when it fell,</l>
+               <l>Which blow did much his haughty courage quell:</l>
+               <l>For he which erſt was author of this ſtrife,</l>
+               <l>Now ſeekes the bogs for ſafegard of his life.</l>
+            </lg>
+            <lg>
+               <l>The valourous incenſed king of <hi>Mice,</hi>
+               </l>
+               <l>Seeing the <hi>Frogs</hi> proud king ſo baſely flye,</l>
+               <l>Which was of late ſo reſolute and wiſe,</l>
+               <l>To vaunt of trophies ere he blowes did try,</l>
+               <l>Calling his ſouldiers on with cheerefull hue,</l>
+               <l>His fainting weary foe he doth purſue,</l>
+               <l>Stil hoping (ſince his wound had made him ſlow)</l>
+               <l>To overtake him with a fatall blow.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:27"/>
+               <l>And but that never-daunted Captaine brought,</l>
+               <l>Captaine <hi>Praſſaeus, Greene as garden-Leeke,</hi>
+               </l>
+               <l>A troope of gallants which would flie for ought,</l>
+               <l>To aide the king, his life had beene to ſeeke.</l>
+               <l>Which preſſing through the middle of the fray,</l>
+               <l>Reſcude their wounded king which fled away,</l>
+               <l>And with their darts beat backe the <hi>Mice</hi> a ſpace,</l>
+               <l>Till forth of danger they had rid his grace.</l>
+            </lg>
+            <lg>
+               <l>Greatly the <hi>Mice</hi> were danted with their blowes,</l>
+               <l>So thicke they fell, and forcibly were ſent,</l>
+               <l>That they were forc'd from danger of the throwes,</l>
+               <l>Backe to retire and ſome what to relent,</l>
+               <l>Vntill their rage and furie were o'repaſt,</l>
+               <l>Through want of breath: then they againe as faſt</l>
+               <l>The <hi>Frogs</hi> aſſaile, and mightily amate,</l>
+               <l>As forward erſt, now backward to retraite.</l>
+            </lg>
+            <lg>
+               <l>Among the ſquadrons of the <hi>Mouces</hi> band,</l>
+               <l>One <hi>Mouce</hi> there was more gallant then the reſt,</l>
+               <l>A braver ſouldier was not in the land,</l>
+               <l>Nor ſtouter Captaine ever wars profeſt:</l>
+               <l>For though ſterne <hi>Mars</hi> his manhood liſt to try,</l>
+               <l>
+                  <hi>Mars</hi> could not force this daring <hi>Mouce</hi> to flie:</l>
+               <l>But when in armes this warriour is yclad.</l>
+               <l>He rather is of <hi>Mars</hi> to be ydrad.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:27"/>
+               <l>This was the ſonne of <hi>Artepibulus,</hi>
+               </l>
+               <l>
+                  <hi>Which doth for bread in wait and ambuſh lye,</hi>
+               </l>
+               <l>Of loftie heart and magnanimious,</l>
+               <l>A worthy ſire to ſuch a progenie,</l>
+               <l>Whom mighty <hi>Meridarpax</hi> he did call,</l>
+               <l>
+                  <hi>That eats the crummes</hi> which under table fall:</l>
+               <l>Was never <hi>Mouce</hi> which under heav'n doth live,</l>
+               <l>That durſt adventure with him for to ſtrive.</l>
+            </lg>
+            <lg>
+               <l>Like to a Gyant ſtood this champion bold,</l>
+               <l>Vpon the ſhore neere to the rivers ſide,</l>
+               <l>Vaunting his might and proweſſe, as he would</l>
+               <l>Have pull'd the throne of <hi>Jove</hi> downe in his pride.</l>
+               <l>And holding up his bourly armes to heaven,</l>
+               <l>Swore by the <hi>Sun,</hi> the <hi>Moone,</hi> and <hi>Planets</hi> ſeven,</l>
+               <l>That e're bright <hi>Phoebus</hi> lighted from his wayne,</l>
+               <l>One craven <hi>Frog</hi> ſhould not alive remaine.</l>
+            </lg>
+            <lg>
+               <l>For by this hand, quoth he, by this right hand,</l>
+               <l>(Searce would a man beleeve it though he ſweare)</l>
+               <l>Though not a <hi>Mouce</hi> will venture them withſtand,</l>
+               <l>But flie the field for cowardiſe and feare:</l>
+               <l>Yet I, behold I, will ſo threſh theſe <hi>Frogs,</hi>
+               </l>
+               <l>That with their corſes I will fill the bogs:</l>
+               <l>Or they, or I, by <hi>Iove</hi> this vow I make,</l>
+               <l>This night will lodge beyond the <note n="*">
+                     <hi>A river in hell, over which ſoules doe paſſe to all places.</hi>
+                  </note> 
+                  <hi>Stygian</hi> lake.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:28"/>
+               <l>And cert's, theſe words had not beene ſpoke in vaine,</l>
+               <l>He had perform'd his vow: (though ſhame to tell)</l>
+               <l>If that the Father of the heav'nly traine,</l>
+               <l>The king of men, and Lord of deepeſt hell,</l>
+               <l>Great <hi>Iove,</hi> had not beheld from ſtarry skyes</l>
+               <l>His dire complots and bloudy enterpriſe,</l>
+               <l>And taking pittie of the <hi>Frogs</hi> eſtate,</l>
+               <l>To <hi>Mars</hi> and all the reſt thus gan relate.</l>
+            </lg>
+            <lg>
+               <l>Ye Gods, which here behold this diſmall day,</l>
+               <l>And ſee the ſlaughters of the cruell fight,</l>
+               <l>What braggard <hi>Mouce</hi> is this that beares ſuch ſway</l>
+               <l>Neere to the river, vaunting of his might?</l>
+               <l>How bold he lookes, how proud he bears his head,</l>
+               <l>As though the <hi>Frogs</hi> lay all before him dead,</l>
+               <l>Deepely proteſting on the parched ſand,</l>
+               <l>Not one poor <hi>Frog</hi> ſhall ſcape his murdring hand.</l>
+            </lg>
+            <lg>
+               <l>Divine inhabitants of heav'n, behold,</l>
+               <l>Behold, I ſay, alas, the wretched caſe,</l>
+               <l>And great miſhap which doth poore <hi>Frogs</hi> enfold,</l>
+               <l>Now preſt to ſuffer ruine and diſgrace:</l>
+               <l>Vnleſſe you deigne to ſave them at this houre,</l>
+               <l>And ſend in ayde ſome number of your power,</l>
+               <l>To quell the daring courage of the <hi>Mice,</hi>
+               </l>
+               <l>And ſtop proud <hi>Meridarpax</hi> enterpriſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:28"/>
+               <l>If that diſpleaſe, then let us <hi>Pallas</hi> ſend</l>
+               <l>T'aſſwage the furie of this cruell fone:</l>
+               <l>Or thou ſterne <hi>Mars</hi> haſte thither for to wend,</l>
+               <l>Yclad in armes of Adamantine ſtone;</l>
+               <l>That this fell <note n="*">
+                     <hi>Meridarpax.</hi>
+                  </note> 
+                  <hi>Tyger,</hi> greedy of his prey,</l>
+               <l>E're he annoy the <hi>Frogs,</hi> may runne away.</l>
+               <l>Here <hi>Iove</hi> did end: But <hi>Mars</hi> of viſage grim,</l>
+               <l>Ariſing from his ſeat, replide to him:</l>
+            </lg>
+            <lg>
+               <l>Beloved Father, Lord of heav'n and hell,</l>
+               <l>To your beheſt all powr's ſubjected ſtand,</l>
+               <l>Which doe in heav'n or lower regions dwell,</l>
+               <l>None may or dare deny when you command:</l>
+               <l>Then think, ſweet Father, <hi>Mars</hi> accounteth ſtill <hi>Jove,</hi>
+               </l>
+               <l>Your word for right, as law your only wil,</l>
+               <l>"Kings men command on earth, why ſhould not</l>
+               <l>"The King of Kings, command the gods above?</l>
+            </lg>
+            <lg>
+               <l>Speake but the word, great <hi>Mars</hi> is alwayes preſt,</l>
+               <l>At <hi>Ioves</hi> appoynt, in armes to enter field;</l>
+               <l>And for ſtout <hi>Pallas,</hi> at your leaſt requeſt,</l>
+               <l>I know my ſiſter willingly will yeeld:</l>
+               <l>But neither I. though I be god of warres,</l>
+               <l>Nor <hi>Pallas,</hi> whoſe renown doth reach the ſtarres,</l>
+               <l>Now are of force the falling <hi>Frogs</hi> to ſtay,</l>
+               <l>Or them preſerve from imminent decay.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:29"/>
+               <l>No, rather ſend the gods, ſend all the power,</l>
+               <l>That higheſt heavenly <hi>Hierarchies</hi> can make,</l>
+               <l>Or on their heads lightning with thunder ſhower,</l>
+               <l>(That all their armie may with terrour quake)</l>
+               <l>With which thou ſlyw'ſt the Giants long agone,</l>
+               <l>
+                  <note n="*">
+                     <hi>A great Giant which Iupiter ſlew with lightning.</hi>
+                  </note> 
+                  <hi>Enceladus,</hi> and proud <note n="*">
+                     <hi>Phaceon, he was ſlayne with thunder.</hi>
+                  </note> 
+                  <hi>Apolloes</hi> ſonne.</l>
+               <l>Thus ended f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owning <hi>Mars.</hi> To whoſe beheſt</l>
+               <l>Great <hi>Iove</hi> gave full conſent, with all the reſt.</l>
+            </lg>
+            <lg>
+               <l>And preſently aſcending up the tower,</l>
+               <l>Where ſulphrous brands with ſtony darts of fire,</l>
+               <l>And all the weapons of his might and power</l>
+               <l>Are kept, to plague proud rebels in his ire:</l>
+               <l>Firſt, there he caus'd great gaſtly flames ariſe,</l>
+               <l>And thunder-claps, that ſeem'd to rend the skies,</l>
+               <l>And ſtill among this hideous roaring ſound,</l>
+               <l>He darted burning bolts the <hi>Mice</hi> to wound.</l>
+            </lg>
+            <lg>
+               <l>Pale feare aſſayled both the <hi>Frogs</hi> and <hi>Mice,</hi>
+               </l>
+               <l>When firſt on ſudden they the thunder heard,</l>
+               <l>So great a terrour in their mindes did riſe,</l>
+               <l>As though with ſpirits they had beene askard:</l>
+               <l>"For who in's breſt ſo ſtout a heart doth beare,</l>
+               <l>"That when heav'ns thunder, doth not quake for feare,</l>
+               <l>"And ſtand amaz'd to view with mortall eyes,</l>
+               <l>"When angry <hi>Iove</hi> darts lightning from the skies?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:29"/>
+               <l>Nethleſſe, although the <hi>Mice</hi> were much diſmayd,</l>
+               <l>To heare the ſound, and ſee the fearefull ſight,</l>
+               <l>Yet left they not the battell as afrayd,</l>
+               <l>But ſtood with greater courage to the fight.</l>
+               <l>"<note n="*">
+                     <hi>Apparet virtus, arguiturque malis.</hi>
+                  </note> Certes, true valour may recoyle a ſpace,</l>
+               <l>"Yet ſtill her force renues with greater grace.</l>
+               <l>Fiercer they rage than erſt they did before:</l>
+               <l>Such heapes of <hi>Frogs</hi> lye ſlaine upon the ſhore.</l>
+            </lg>
+            <lg>
+               <l>When angry <hi>Iove</hi> beheld with rufull eye,</l>
+               <l>For all his care, the <hi>Frogs</hi> ſtill goe to w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acke,</l>
+               <l>And ſee the <hi>Mice</hi> more deſperate hereby,</l>
+               <l>Scorning his lightnings and harſh thunder-cracke,</l>
+               <l>He wept to view their ſlaughter and decay:</l>
+               <l>And now he thought to try a ſurer way,</l>
+               <l>By other meanes the <hi>Frogs</hi> from death to ſhend:</l>
+               <l>"For whom God loves, he favours to the end.</l>
+            </lg>
+            <lg>
+               <l>From forth the Ceſterne of the Ocean deepe,</l>
+               <l>Whence rivers both their ſprings and tydes renue,</l>
+               <l>
+                  <note n="*">
+                     <hi>The deſcription of the Crabs.</hi>
+                  </note> An ugly ſwarme of filthy monſters creepe,</l>
+               <l>A foule infernall and ill-favour'd crue,</l>
+               <l>Which ſtill goe backward with a ſquinting eye,</l>
+               <l>To ſee before their footſteps what doth lye:</l>
+               <l>"For thus doth mother nature alwayes ayme.</l>
+               <l>"For each defect a remedy to frame.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:30"/>
+               <l>Exceeding were their ſhoulders out of ſquare;</l>
+               <l>So broad, ſo great, as irkes my muſe to tell:</l>
+               <l>Their bald blue backe withouten skin or haire,</l>
+               <l>Was all o're whelmed with a coſtive ſhell,</l>
+               <l>As hard as Iron, or the flinty ſtones.</l>
+               <l>Their bodies wholly were compact of bones.</l>
+               <l>Before their ugly face two clawes beare ſway,</l>
+               <l>With which they wont to grope &amp; feele their way.</l>
+            </lg>
+            <lg>
+               <l>On eyther ſide of their deformed breſt,</l>
+               <l>Foure crooked legs their grievous burden beare:</l>
+               <l>Two ſterne grim lowring eyes by natures heſt,</l>
+               <l>In middle of their belly did appeare.</l>
+               <l>Their grieſly crownes ſeem'd cloven into three;</l>
+               <l>On two whereof like helmets you might ſee.</l>
+               <l>So vile a brood of fell miſhapen Snakes</l>
+               <l>Ne're could be found, but in th' infernall lakes.</l>
+            </lg>
+            <lg>
+               <l>Theſe monſtrous ugly <hi>Crabs</hi> (for <hi>Crabs</hi> they were)</l>
+               <l>Crawling along the ſpacious continent,</l>
+               <l>When <hi>Iove</hi> beheld from out his Palace cleare,</l>
+               <l>Which lyes beyond the ſpangled firmament,</l>
+               <l>He ſent the hel-bred band unto the fray,</l>
+               <l>To kill the <hi>Mice,</hi> or make them runne away.</l>
+               <l>The <hi>Crabs</hi> obeyd, "nor take they care for armes;</l>
+               <l>"Their ſhels wil keep them ſafe fro<g ref="char:cmbAbbrStroke">̄</g> greateſt harms.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:30"/>
+               <l>No ſooner were they come unto the fight,</l>
+               <l>Where warlike <hi>Mice</hi> their enemies aſſayle,</l>
+               <l>But all at once the <hi>Crabs</hi> upon them light,</l>
+               <l>Aſunder breake their legs, bite off their tayle,</l>
+               <l>Their javelins pluck away, &amp; pinch their hands,</l>
+               <l>Nothing their ſavage cruelty withſtands:</l>
+               <l>So Tiger-like upon the <hi>Mice</hi> they prey,</l>
+               <l>As would perforce the ſtouteſt heart afray.</l>
+            </lg>
+            <lg>
+               <l>But when the <hi>Mice</hi> beheld theſe monſters rage,</l>
+               <l>So dire and bloudy as doth grieve me tell,</l>
+               <l>Their haughty courage ſome deale gan aſſwage,</l>
+               <l>Their hearts from wonted reſolution fell;</l>
+               <l>Their armes they throw away, the field forſake,</l>
+               <l>And to their heeles for ſafegard them betake:</l>
+               <l>"For if both heaven and hell conſpire decay,</l>
+               <l>"No marvell though poor <hi>Mice</hi> do runne away.</l>
+            </lg>
+            <lg>
+               <l>Thus by the ſuccour of the <hi>Crabs</hi> that day,</l>
+               <l>The <hi>Mice</hi> were forced to a ſhamefull flight,</l>
+               <l>The <hi>Frogs</hi> preſerv'd from imminent decay,</l>
+               <l>Which elſe had ſlept in death and endleſſe night.</l>
+               <l>And now the welked <hi>Phoebus</hi> gan to reſt</l>
+               <l>His wearied waggon in the ſcarlet Weſt,</l>
+               <l>When ſullen night prepar'd her courſe to runne,</l>
+               <l>Seal'd up the battell with the ſetting Sunne.</l>
+            </lg>
+         </div>
+         <div type="conclusion">
+            <pb facs="tcp:150968:31"/>
+            <head>The concluſion of the <hi>Tranſlator.</hi>
+            </head>
+            <l>LOe, in a vaile preſented to thine eye,</l>
+            <l>Among more leſſons worthy due regard,</l>
+            <l>Of trifling jarres and fooliſh enmity,</l>
+            <l>The ominous ſucceſſe and juſt reward.</l>
+            <l>See then from ſtrife and diſcord thou refraine,</l>
+            <l>Leſt ſad repentance breed thy further paine:</l>
+            <l>"For if <note n="*">
+                  <hi>Hodie ſub hominum ſpecie, Caneri cau<g ref="char:EOLhyphen"/>ſas agunt.</hi>
+               </note> blacke <hi>Crabs</hi> doe chance to part the fray,</l>
+            <l>"Small is their gaine that beare the beſt away.</l>
+            <epigraph>
+               <q>
+                  <hi>Et facit ad mores ars quoque noſtra bonos.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="dedication">
+            <pb facs="tcp:150968:31"/>
+            <head>To his Couſin, Maſter <hi>Ambroſe Hargreves</hi> health.</head>
+            <lg>
+               <l>VVHether a ſecret influence from above,</l>
+               <l>Or ſupernaturall motion of the mind,</l>
+               <l>May ſeeme good-liking, and affection move,</l>
+               <l>Among thoſe men whom kindred had combind:</l>
+               <l>Or whether nature, <hi>Couſin,</hi> us inclin'd,</l>
+               <l>So highly to eſteeme affinitie,</l>
+               <l>I cannot eaſly judge, nor cauſes finde,</l>
+               <l>Why we ſo favour conſanguinity.</l>
+               <l>But cert's the worke is from divinitie.</l>
+            </lg>
+            <lg>
+               <l>And whence this inward motion doth ariſe,</l>
+               <l>Js for my purpoſe needleſſe to decide,</l>
+               <l>Sithence we finde it true, whom <hi>bloud</hi> alies,</l>
+               <l>In league of friendſhip commonly abide,</l>
+               <l>And in the band of love are nearer ty'de:</l>
+               <l>Nethleſſe when other cauſes beare a ſway,</l>
+               <l>To move good will, it cannot be denide,</l>
+               <l>But then it is more firme, as is the day,</l>
+               <l>Brighter when <hi>Phoebus</hi> doth his beames diſplay.</l>
+            </lg>
+            <lg>
+               <l>Yet ſince firſt kindred doth command as due,</l>
+               <l>An interchange of amity and love,</l>
+               <l>Much, I confeſſe, for this I favour you,</l>
+               <l>In whom the gifts of wit and learning move,</l>
+               <l>
+                  <pb facs="tcp:150968:32"/>Which more confirme what here J ſeeke to prove:</l>
+               <l>But that you live old <hi>Hargreves</hi> onely ſonne,</l>
+               <l>Whoſe bleſſed ſoule reſts in the armes of <hi>Iove,</hi>
+               </l>
+               <l>And in the boſome of the Holy one;</l>
+               <l>This hath the key of my affection.</l>
+            </lg>
+            <lg>
+               <l>This hath the greateſt intreſt in my heart,</l>
+               <l>And deeper ſtands infixed in my breſt,</l>
+               <l>Then either kindred, or the gifts of art,</l>
+               <l>Or what blinde <hi>Nature</hi> doth eſteeme as beſt:</l>
+               <l>For though I held him deare, I doe proteſt,</l>
+               <l>Before his paſſage from this vale of woe,</l>
+               <l>Yet now enthron'd in everlaſting reſt,</l>
+               <l>Much more J love; we ſeldome fully know</l>
+               <l>True <hi>Vertues</hi> worth, till vertue we forgoe.</l>
+            </lg>
+            <lg>
+               <l>Gone is the ſtarre, whoſe luſtre beautifide</l>
+               <l>Each twinkling light that Northren climats bred,</l>
+               <l>Yet though that clouds obſcure <hi>Apollo's</hi> pride,</l>
+               <l>With greater glory ſoone he ſhewes his head:</l>
+               <l>So though we thinke renowned <hi>Hargreve</hi> dead,</l>
+               <l>His life eclipſed by the clouds of fate,</l>
+               <l>No myſt or darkneſſe can ſo overſpread</l>
+               <l>His lives true honour, or his praiſe abate,</l>
+               <l>But ſtill it ſhines abroad in freſher ſtate.</l>
+            </lg>
+            <lg>
+               <l>What ſhould I thinke to ſet his praiſes forth,</l>
+               <l>Which farre exceeds the compaſſe of my braine?</l>
+               <l>
+                  <pb facs="tcp:150968:32"/>Too lofty ſubject for my ſimple worth,</l>
+               <l>Nor can I eaſly reach ſo high a ſtrayne,</l>
+               <l>Which never taſted that immortall vayne,</l>
+               <l>Flowing with <hi>Nectar</hi> downe the ſacred hill,</l>
+               <l>Where thoſe nine virgin-<hi>Muſes</hi> aye remaine,</l>
+               <l>Which learned heads with heavenly <hi>fury</hi> fill,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> drop arts drearyment into their quill.</l>
+            </lg>
+            <lg>
+               <l>Nethleſſe, although ſo many tongues J had,</l>
+               <l>As <note n="*">
+                     <hi>A Giant with a hundred hands.</hi>
+                  </note> 
+                  <hi>Briareus</hi> had hands great <hi>Homer</hi> ſayes,</l>
+               <l>In habit of ſweet eloquence yclad,</l>
+               <l>To blazon to the world his vertuous dayes,</l>
+               <l>I ſhould but give an <hi>Eccho</hi> to his praiſe,</l>
+               <l>And much abridge the volume of his ſtory:</l>
+               <l>
+                  <hi>Vertue</hi> is beſt to crowne her ſelfe with <hi>Bayes,</hi>
+               </l>
+               <l>And <hi>Hargreves</hi> worth to regiſter his glory,</l>
+               <l>Which ſtill ſurvives, though life be tranſitorie.</l>
+            </lg>
+            <lg>
+               <l>In ſpite of <hi>envy, ſlander, death</hi> and <hi>hell,</hi>
+               </l>
+               <l>
+                  <hi>Hargreve</hi> revives from priſon of the <hi>grave;</hi>
+               </l>
+               <l>Above the bankes of <hi>Fame</hi> his praiſes ſwell,</l>
+               <l>Since hiſſing <hi>Serpents</hi> ſought him to deprave:</l>
+               <l>When <hi>Vertue</hi> moſt is ſpurn'd, ſhe growes moſt brave.</l>
+               <l>Yet he which in his life was unrevil'd,</l>
+               <l>In whom vile <hi>Malice</hi> could no vantage have,</l>
+               <l>After his death by <hi>ſlander</hi> is defil'd:</l>
+               <l>But <hi>Vertues</hi> meed hath <hi>infamy</hi> beguild:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:33"/>
+               <l>For forth the aſhes of foule <hi>Obloquie,</hi>
+               </l>
+               <l>Burn'd with the firebrands of ſlandrous lyes,</l>
+               <l>This peereleſſe <hi>Phoenix,</hi> crown'd with victory,</l>
+               <l>Still doth renue himſelfe and never dyes,</l>
+               <l>And on the wings of <hi>Honour</hi> mounts the skies,</l>
+               <l>Whereas his ſoule reſts in <hi>Iehovah's</hi> arme,</l>
+               <l>Scorning the checks of dunghill <hi>Scarabies,</hi>
+               </l>
+               <l>And all the bitings of that viprous ſwarme,</l>
+               <l>Whoſe tongues are ever preſt to worke his harme.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Couſin,</hi> me thinkes the <hi>myſterie</hi> is deepe,</l>
+               <l>That they which <hi>Shepheards</hi> doe in ſhew appeare,</l>
+               <l>Clad in the habite of a ſimple <hi>ſheepe,</hi>
+               </l>
+               <l>Whom neither <hi>pride</hi> nor <hi>envy</hi> commeth neere,</l>
+               <l>Should be transformed to an ugly <hi>Beare,</hi>
+               </l>
+               <l>And play the <hi>Wolfe</hi> ſo fitly in the end,</l>
+               <l>As a <hi>dead man</hi> aſunder for to teare,</l>
+               <l>Whom in their life they never durſt offend,</l>
+               <l>Proving a ſavage <hi>Vulture</hi> to their <hi>friend.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet thus, we ſee, ſomes Cookes are wont to uſe</l>
+               <l>The ſilly <hi>ſheep,</hi> which whil'ſt he breathes the ayre,</l>
+               <l>They never dare adventure to abuſe,</l>
+               <l>Or ſeeke the harmeleſſe creature to impayre:</l>
+               <l>But when the bloudy <hi>Butcher</hi> doth not ſpare</l>
+               <l>Within his throte to ſheath the murdring <hi>blade,</hi>
+               </l>
+               <l>They ſtreight diſioynt his members without care,</l>
+               <l>And <hi>cut</hi> and <hi>mangle</hi> him before them layd,</l>
+               <l>More cruell then the <hi>Butcher</hi> by their trade.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:33"/>
+               <l>Needleſſe it is my meaning to unfold:</l>
+               <l>Your <hi>Eagles</hi> eyes will quickly ſee the <hi>Sunne;</hi>
+               </l>
+               <l>All that ſhewes <hi>faire,</hi> is not refined <hi>gold;</hi>
+               </l>
+               <l>Nor all pure <hi>veſtals</hi> which in <hi>cloyſters</hi> wonne:</l>
+               <l>Sometimes a <hi>Wolfe</hi> a <hi>Shepheards</hi> weed will don:</l>
+               <l>And ſtarved <hi>Snakes,</hi> as <hi>Eſope</hi> wiſely told,</l>
+               <l>Preſerv'd through <hi>pity</hi> from <hi>deſtruction.</hi>
+               </l>
+               <l>When fire hath freed their joynts benum'd with cold,</l>
+               <l>Will <hi>hiſſe</hi> their <hi>friend,</hi> like <hi>Serpents</hi> from his <hi>hold.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Pardon me, <hi>Couſin,</hi> though I ſeeme too bold,</l>
+               <l>T'unrip the <hi>Cankers</hi> of a feſtred <hi>ſore,</hi>
+               </l>
+               <l>Too much I grieve to heare him thus controld,</l>
+               <l>And falſly ſlandred by a grunting <hi>Bore,</hi>
+               </l>
+               <l>And by a heard of <hi>ſwine,</hi> which erſt before,</l>
+               <l>When famous <hi>Hargreve</hi> liv'd, like <hi>dogs</hi> did flatter</l>
+               <l>Yet <hi>heav'n</hi> I hope, which iudgements hath in ſtore,</l>
+               <l>Will firſt or laſt reward them for this matter:</l>
+               <l>And turne the caſe on ſhore when tydes want water.</l>
+            </lg>
+            <lg>
+               <l>Longer I will not agravate their ſhame,</l>
+               <l>
+                  <hi>Broaching</hi> the <hi>caske</hi> of their unnat'rall ſinne:</l>
+               <l>Well can the <hi>world</hi> teſtifie the ſame,</l>
+               <l>How thankeleſſe and ungratefull they have bin,</l>
+               <l>And how iniurious ſtill they dealt herein:</l>
+               <l>But ſince the <hi>world</hi> neglects a dead mans wrong,</l>
+               <l>My <hi>Muſe,</hi> albe't ſhe be both bare and thin,</l>
+               <l>Js not afraid, though <hi>envies</hi> part be ſtrong,</l>
+               <l>To let them know th'abuſes of their <hi>tongue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150968:34"/>
+               <l>But let the <hi>wicked</hi> band themſelves in one,</l>
+               <l>To worke true <hi>vertues</hi> ruine and decay:</l>
+               <l>Tread you the <hi>path</hi> your <hi>father</hi> erſt hath gone,</l>
+               <l>And feare not what the <hi>proud</hi> can doe or ſay:</l>
+               <l>For though <hi>ambition</hi> ſeeme to beare a ſway,</l>
+               <l>And <hi>envies</hi> ſting procure the juſt mans ſmart,</l>
+               <l>
+                  <hi>Truth</hi> will advance her cauſe as cleare as day,</l>
+               <l>And turne the <hi>ſcandall</hi> of <hi>detractions</hi> dart,</l>
+               <l>Vpon themſelves, with <hi>ſhame</hi> and <hi>griefe</hi> of heart.</l>
+            </lg>
+            <lg>
+               <l>Well could you beate (I know) the billowes backe,</l>
+               <l>Which ſeeke t'orewhelme the Bark of <hi>Hargreves</hi> name:</l>
+               <l>But never tempeſt can his veſſell cracke,</l>
+               <l>Since <hi>Vertue</hi> ſerves as <hi>Anchor</hi> to his fame:</l>
+               <l>Deigne therefore, <hi>Couſin,</hi> to protect from blame</l>
+               <l>This ſimple worke, that like as <hi>Hargreves</hi> friend</l>
+               <l>Stands in the front to patronize the ſame;</l>
+               <l>So <hi>Hargreves</hi> ſonne in fine will it defend,</l>
+               <l>Leſt Curres doe bite behind what I have pend.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150968:34"/>
+         </div>
+      </back>
+   </text>
+</TEI>
